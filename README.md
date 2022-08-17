@@ -1,0 +1,2 @@
+# poradnik
+poradnik studiowania
