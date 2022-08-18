@@ -1,3 +1,5 @@
+[Powrót](README.md)
+
 # Instrukcja obsługi dla studentów
 
 Dość stary tekst napisany przez Tomasza Wierzbickiego, wciąż w dużej mierze aktualny:

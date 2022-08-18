@@ -1,3 +1,5 @@
+[Powrót](README.md)
+
 # FAQ Studiowania
 
 <details>

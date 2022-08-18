@@ -1,3 +1,6 @@
+[Powrót](README.md)
+
+
 # Porady odnośnie studiowania
 
 Porady odnośnie studiowania napisane przez doświadczonych studentów, którym udało się nasze studia skończyć
