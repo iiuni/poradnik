@@ -50,7 +50,7 @@
 <details>
 <summary>Czy bez matury z Y mam szansę dostać się na studia?</summary>
 
-> W postępowaniu rekrutacyjnym brane będą pod uwagę wyniki egzaminów maturalnych z matematyki, informatyki, fizyki i astronomii oraz dowolnego języka obcego nowożytnego. Więcej informacji znajdziesz na stronie [rekrutacji](https://rekrutacja.uni.wroc.pl/kierunek/informatyka-i-stopnia-stacjonarne-licencjackie-i-inzynierskie/#zasady).
+> W postępowaniu rekrutacyjnym brane będą pod uwagę wyniki egzaminów maturalnych z matematyki, informatyki, fizyki oraz dowolnego języka obcego nowożytnego. Więcej informacji znajdziesz na stronie [rekrutacji](https://rekrutacja.uni.wroc.pl/kierunek/informatyka-i-stopnia-stacjonarne-licencjackie-i-inzynierskie/#zasady).
 
 </details>
 
