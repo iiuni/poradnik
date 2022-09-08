@@ -303,7 +303,7 @@
 
 <summary>Co to są repetytoria? Czy muszę na nie chodzić?</summary>
 
-> Repetytoria to zajęcia pomocnicze, mające na celu ułatwienie studentom przyswojenia wiedzy z wykładów. Mają one charakter konwersacyjny - można prowadzącemu zadawać pytania na temat materiału wykładowego lub ćwiczeniowego lub poprosić o omówienie pewnego zagadnienia od początku. Nie są one obowiązkowe, ale zalecane (nie tylko) dla osób, które mają trudności ze zrozumieniem materiału lub rozwiązaniem zadań na ćwiczenia. Warto z nich korzystać również w celu utrwalenia wiedzy i pogłębienia zrozumienia tematyki - prowadzący repetytorium może zaoferować inne spojrzenie.
+> Repetytoria to zajęcia pomocnicze, mające na celu ułatwienie studentom przyswojenia wiedzy z wykładów. Można podczas nich zadawać prowadzącemu pytania na temat materiału wykładowego lub ćwiczeniowego lub poprosić o omówienie pewnego zagadnienia od początku. Nie są one obowiązkowe, ale zalecane (nie tylko) dla osób, które mają trudności ze zrozumieniem materiału lub rozwiązaniem zadań na ćwiczenia. Warto z nich korzystać również w celu utrwalenia wiedzy i pogłębienia zrozumienia tematyki - prowadzący repetytorium może zaoferować inne spojrzenie.
 
 </details>
 
