@@ -119,7 +119,7 @@
 <details>
 <summary>Czy sale są otwarte? Czy mogę "wypożyczyć" salę?</summary>
 
-> Sale ćwiczeniowe bez telewizorów są otwarte, można do nich przyjść, gdy nie ma w nich zajęć, i na przykład wykorzystać je do grupowej lub indywidualnej nauki (również z użyciem tablicy). Sale z telewizorami są zamknięte i drzwi otwiera dopiero prowadzący. Sale komputerowe oraz małe sale wykładowe też są zamknięte na klucz, ale ten klucz można "wypożyczyć" w portierni. W tym celu należy oddać swoją legitymację, wpisać godzinę pobrania klucza i podpisać się w zeszycie wypożyczeń. W salach komputerowych można korzystać z komputerów, można podłączyć swojego laptopa (jest dużo gniazdek), można skorzystać z tablicy suchościeralnej.
+> Sale ćwiczeniowe bez telewizorów są otwarte, można do nich przyjść, gdy nie ma w nich zajęć, i na przykład wykorzystać je do grupowej lub indywidualnej nauki. Sale z telewizorami są zamknięte i drzwi otwiera dopiero prowadzący. Sale komputerowe oraz małe sale wykładowe też są zamknięte na klucz, ale ten klucz można "wypożyczyć" w portierni. W tym celu należy oddać swoją legitymację, wpisać godzinę pobrania klucza i podpisać się w zeszycie wypożyczeń. W salach można korzystać z komputerów, z rzutników, z tablic, oraz można podłączyć swojego laptopa (jest dużo gniazdek).
 
 </details>
 
@@ -320,6 +320,7 @@
 <summary>Czy obecność na ćwiczeniach/pracowniach jest obowiązkowa?</summary>
 
 > Prowadzący mają prawo weryfikować obecność na ćwiczeniach i pracowniach. Konsekwencje nieobecności na danych zajęciach najlepiej jest sprawdzić indywidualnie dla każdego przedmotu w jego regulaminie. Należy mieć na uwadze, że na niektórych przedmiotach aktywność studenta na ćwiczeniach lub pracowniach wpływa na jego ocenę końcową z tych zajęć, mimo że nie istnieją bezpośrednie konsekwencje nieobecności.
+>
 > Przykładowymi zajęciami, na których obecność pełni istotną rolę w ich zaliczeniu, są: ćwiczenia z Analizy numerycznej M (3. sem), ćwiczenia z Matematyki dyskretnej M (3. sem), ćwiczenia z Algorytmów i struktur danych (4. sem).
 
 </details>
