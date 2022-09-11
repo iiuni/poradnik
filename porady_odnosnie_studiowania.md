@@ -52,7 +52,7 @@ Podczas wykładów prowadzący opowiada (wykłada) materiał. Należy jednak pam
 
   </details>
 
-* **Sprawdź, czy do wykładu nie są dostępne notatki**
+* **Sprawdź, czy do wykładu dostępne są notatki**
 
   <details>
     <summary>Szczegóły</summary>
@@ -67,7 +67,7 @@ Podczas wykładów prowadzący opowiada (wykłada) materiał. Należy jednak pam
   <details>
     <summary>Szczegóły</summary>
 
-    Robienie zdjęć tablicy jest dobrą metodą na zrobienie notatek, nie tracąc czasu na notowanie. Zapytaj jednak prowadzącego przed wykładem, czy będzie to dla niego problem.
+    Robienie zdjęć tablicy jest dobrą metodą na zrobienie notatek, nie tracąc czasu na notowanie. Zapytaj jednak prowadzącego przed wykładem, czy nie będzie to dla niego problemem.
   </details>
 
 * **Skup się na wykładzie, nie na notowaniu**
@@ -100,7 +100,7 @@ Podczas wykładów prowadzący opowiada (wykłada) materiał. Należy jednak pam
 
     Prezentując zadanie pod tablicą, nie skupiaj się na przepisaniu rozwiązania. Zamiast tego zaprezentuj ideę. Nie zawsze wszystkie kroki są potrzebne, czasem zaciemniają one rozwiązanie. Jeśli prowadzący będzie chciał, żeby któryś krok był dokładniej opisany, z pewnością to powie.
 
-    Skup się na mówieniu i tłumaczeniu, zapisuj tylko kluczowe rzeczy, chyba że prowadzący chce inaczej. Jednym z głównych celów prezentowania rozwiązania jest wytłumaczenie go sali. Jeśli będziesz w stanie to zrobić, pokażesz też, że dobrze rozumiesz prezentowane zadanie.
+    Skup się na mówieniu i tłumaczeniu, zapisuj tylko kluczowe rzeczy, chyba że prowadzący chce inaczej. Jednym z głównych celów prezentowania rozwiązania jest wytłumaczenie go sali. Niektórzy słyszą twoje rozwiązanie po raz pierwszy i mogą potrzebować chwili na przyswojenie jego treści. Aby umożliwić słuchaczom nadążenie za prezentacją, co jakiś czas spytaj widowni, czy do tej pory wszystko jest zrozumiałe. Jeśli będziesz w stanie wytłumaczyć sali prezentowane zadanie, pokażesz też, że dobrze je rozumiesz.
   </details>
 
 ### Repetytoria
@@ -136,14 +136,14 @@ Niektóre przedmioty (zazwyczaj te obowiązkowe) mają dodatkowe zajęcia nieobo
   <details>
     <summary>Szczegóły</summary>
 
-    Choć najwięcej z repetytorium można wynieść, jeśli nie zrozumiało się materiału, to osoby które (myślą, że) materiał zrozumiały mogą na repetytorium dużo zyskać. Jest to miejsce, w którym możesz utrwalić swoją wiedzę, pogłębić zrozumienie a może nawet zobaczyć, że coś rozumiesz źle. Nie bój się chodzić na repetytoria, nawet jeśli myślisz, że nie będą one zbyt pomocne.
+    Choć najwięcej z repetytorium można wynieść, jeśli nie zrozumiało się materiału, to osoby które (myślą, że) materiał zrozumiały mogą na repetytorium dużo zyskać. Jest to miejsce, w którym możesz utrwalić swoją wiedzę, pogłębić zrozumienie, a może nawet zobaczyć, że coś rozumiesz źle. Nie bój się chodzić na repetytoria, nawet jeśli myślisz, że nie będą one zbyt pomocne.
   </details>
 
 ### Konsultacje
 
 Konsultacje są w pewnym sensie darmowymi korepetycjami. Wszyscy pracownicy mają określone godziny, w których są dostępni dla studentów. Odpowiadają wtedy oni na pytania, tłumaczą materiał, a czasem nawet dają wskazówki do zadań.
 
-Czas konsultacji sprawdzić można [w systemie zapisów](https://zapisy.ii.uni.wroc.pl/users/employees/)
+Czas konsultacji danego prowadzącego sprawdzić można w [Systemie Zapisów](https://zapisy.ii.uni.wroc.pl/users/employees/).
 
 * **Zapowiedz się**
 
@@ -153,12 +153,12 @@ Czas konsultacji sprawdzić można [w systemie zapisów](https://zapisy.ii.uni.w
     Mimo że prowadzący sami ustalają terminy konsultacji, zawsze warto jest zapowiedzieć się mailowo.
   </details>
 
-* **Nie bój się prosić o inny termin**
+* **Nie bój się poprosić o inny termin**
 
   <details>
     <summary>Szczegóły</summary>
 
-    Jeśli podoba ci się sposób tłumaczenia prowadzącego, ale nie pasuje ci jego termin konsultacji, zawsze możesz zapytać prowadzącego o możliwość przyjścia w innym terminie. Pamiętaj jednak o tym, że zmiana terminu konsultacji jest dobrą wolą prowadzącego: pamiętaj o uprzejmości i nie zachowuj sie roszczeniowo.
+    Jeśli podoba ci się sposób tłumaczenia prowadzącego, ale nie pasuje ci jego termin konsultacji, zawsze możesz zapytać prowadzącego o możliwość spotkania w innym terminie. Pamiętaj jednak o tym, że zmiana terminu konsultacji jest dobrą wolą prowadzącego - zachowaj uprzejmość i nie zachowuj sie roszczeniowo.
   </details>
 
 * **Mów otwarcie o problemach**
@@ -167,6 +167,14 @@ Czas konsultacji sprawdzić można [w systemie zapisów](https://zapisy.ii.uni.w
     <summary>Szczegóły</summary>
 
     Konsultacje to czas dla ciebie. Stratą czasu (zarówno twoją, jak i prowadzącego) będzie, jeśli będziesz ukrywać swoją niewiedzę, albo problemy ze zrozumieniem tematów. Mów otwarcie o tym, czego nie rozumiesz: nawet jeśli prowadzący tłumaczy ci to po raz kolejny.
+  </details>
+
+* **Nie musisz ograniczać się do swoich prowadzących**
+
+  <details>
+    <summary>Szczegóły</summary>
+
+    Wielu prowadzących chętnie udzieli ci konsultacji nawet jeżeli nie jesteś członkiem ich grupy zajęciowej. Wiedza ta może się przydać m.in. wtedy, gdy pewien prowadzący zajęcia z przedmiotu, z którego potrzebujesz konsultacji, jest dostępny w korzystnym dla ciebie terminie.
   </details>
 
 ---
@@ -194,7 +202,7 @@ Czas konsultacji sprawdzić można [w systemie zapisów](https://zapisy.ii.uni.w
   <details>
     <summary>Szczegóły</summary>
 
-    Trzeba pamiętać, że dla uzyskania najlepszych efektów, grupa nie powinna być zbyt duża. W dużych grupach wiele osób nie jest się wypowiedzieć, zadać pytania, czy rzucić uwagi. Najlepiej spotykać się w maksymalnie 4-osobowych grupach (idealnie 2-3-osobowych), w których każdy będzie czuł się komfortowo.
+    Trzeba pamiętać, że dla uzyskania najlepszych efektów, grupa nie powinna być zbyt duża. W dużych grupach wiele osób nie jest w stanie się wypowiedzieć, zadać pytania, czy rzucić uwagi. Najlepiej spotykać się w maksymalnie 4-osobowych grupach (idealnie 2-3-osobowych), w których każdy będzie czuł się komfortowo.
   </details>
 
 ---
@@ -226,7 +234,7 @@ Wielu studentów, zupełnie niepotrzebnie, boi się zadawać pytania, zarówno p
   <details>
     <summary>Szczegóły</summary>
 
-    Jeśli ktoś kiedyś zada ci pytanie lub poprosi o pomoc ze zrozumieniem zagadnienia, postaraj się to zrobić. Kiedyś i ty możesz być w sytuacji, w której nie będziesz czegoś rozumieć. Poza tym, tłumaczenie innym zagadnień i materiału jest niezwykle pomocne w lepszym jego zrozumieniu: często uświadamia to, że jeszcze do końca tego nie rozumiesz. Jest to też dobre ćwiczenie, jeśli chodzi o tłumaczenie swojego toku rozumowania, co na wielu przedmiotach musisz robić pod tablicą.
+    Jeśli ktoś kiedyś zada ci pytanie lub poprosi o pomoc ze zrozumieniem zagadnienia, postaraj się to zrobić. Kiedyś i ty możesz być w sytuacji, w której nie będziesz czegoś rozumieć. Poza tym, tłumaczenie innym zagadnień i materiału jest niezwykle pomocne również dla ciebie - często pomaga odkryć luki w twoim zrozumieniu tematu. Jest to też dobre ćwiczenie klarownego przedstawiania swojego toku rozumowania. Na wielu przedmiotach musisz robić to pod tablicą.
   </details>
 
 
@@ -266,7 +274,7 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
   <details>
     <summary>Szczegóły</summary>
 
-    Zadając pytania i prosząc o pomoc, postaraj się, żeby osoba, o którą pomoc prosisz, musiała poczynić najmniejszy możliwy wysiłek, by móc ci pomóc. Wyślij link, z którego rozwiązaniem nie rozumiesz, skopiuj definicję czy treść zadania, które sprawia ci problem. Zadawaj jak najbardziej konkretne i precyzyjne pytania.
+    Zadając pytania i prosząc o pomoc, postaraj się, żeby osoba udzielajaca pomocy musiała przy tym poczynić możliwie najmniejszy wysiłek. Wyślij link z rozwiązaniem, którego nie rozumiesz, skopiuj definicję czy treść zadania, które sprawia ci problem. Zadawaj jak najbardziej konkretne i precyzyjne pytania.
   </details>
 
 
@@ -306,7 +314,7 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
   <details>
     <summary>Szczegóły</summary>
 
-    Nikt nie zagląda ci do zeszytu i faktycznie możesz uczyć się jak chcesz. Jeśli jesteś osobą, która pamięta wszystko po wykładzie, nie musisz notować. Na początku jednak załóż, że notatki będą ci niezbędne do przyswojenia/powtórzenia materiału. Bywa, że przekonanie o tym, że wszystko pamiętamy i rozumiemy, po kilku dniach okazuje się złudne.
+    Nikt nie zagląda ci do zeszytu i faktycznie możesz uczyć się jak chcesz. Jeśli jesteś osobą, która pamięta wszystko po wykładzie, nie musisz notować. Na początku jednak załóż, że notatki będą ci niezbędne do przyswojenia lub powtórzenia materiału. Bywa, że przekonanie o tym, że wszystko pamiętamy i rozumiemy, po kilku dniach okazuje się złudne.
   </details>
 
 * **Nie trać czasu na dokładne notatki**
