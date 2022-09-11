@@ -14,8 +14,8 @@ Trochę dyskusyjno-kontrowersyjny akapit, ponieważ wiele zależy od waszych do�
   - potrzebujesz naprowadzenia, jak zabrać się za dane zadanie
   - chcesz sprawdzić, czy rozwiązałeś zadanie dobrze
   - chcesz dopytać o jakieś zagadnienie z wykładu, którego nie rozumiesz
-- nikt nie zagląda ci do zeszytu i faktycznie możesz uczyć się jak chcesz. Jeśli jesteś osobą, która pamięta wszystko po wykładzie, nie musisz notować.
-- u mnie w szkole jeszcze straszono, że "nie będę dyktować wolniej, bo na studiach nikt nie będzie na was czekał, macie się nauczyć szybko notować" - wykłady albo są na slajdach, które udostępnia wykładowca, albo są pisane na tablicy naprawdę odpowiednim tempem. Ogólnie raczej nie kupujcie za wielu zeszytów.
+- nikt nie zagląda ci do zeszytu i faktycznie możesz uczyć się jak chcesz. Jeśli jesteś osobą, która pamięta wszystko po wykładzie, nie musisz notować. Na początku jednak załóż, że notatki będą ci niezbędne do przyswojenia/powtórzenia materiału. Bywa, że przekonanie o tym, że wszystko pamiętamy i rozumiemy, po kilku dniach okazuje się złudne.
+- u mnie w szkole jeszcze straszono, że "nie będę dyktować wolniej, bo na studiach nikt nie będzie na was czekał, macie się nauczyć szybko notować" - wykłady albo są na slajdach, które udostępnia wykładowca, albo są pisane na tablicy naprawdę odpowiednim tempem. A propos samej formy notatek - przepisywanie treści wykładu słowo w słowo nie jest najlepszą taktyką. Znacznie lepiej sprawdza się notowanie zwięzłe, tak, aby móc skupić się na zrozumieniu materiału, zamiast na idealnym skopiowaniu słów prowadzącego. Ogólnie raczej nie kupujcie za wielu zeszytów.
 - można na wykładach i ćwiczeniach zadawać pytania (jeśli prowadzący stoi przodem do słuchaczy, najlepiej podnieść rękę i poczekać na udzielenie głosu, jeśli prowadzący stoi tyłem i długo się nie odwraca, najlepiej powiedzieć "przepraszam, mam pytanie", następnie po uzyskaniu wzrokowo-werbalnej aprobaty kontynuować wypowiedź)
 
 # Kultura pracy na studiach
