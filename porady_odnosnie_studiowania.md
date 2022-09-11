@@ -191,16 +191,6 @@ Czas konsultacji danego prowadzącego sprawdzić można w [Systemie Zapisów](ht
     Wasza wspólna wiedza jest zazwyczaj dużo większa, niż wiedza pojedynczej osoby. Tłumaczenie zagadnień osobom które ich nie rozumieją pogłębia również nasze zrozumienie tematu, a szukanie błędów w cudzym toku rozumowania może nas nauczyć odkrywać błędy także w naszych rozwiązaniach.
   </details>
 
-* **Wytykaj błędy i nie obrażaj się gdy robią to inni**
-
-  <details>
-    <summary>Szczegóły</summary>
-
-    Czasem ciężko jest przyjąć, że nasze rozumowanie jest błędne, szczególnie jeśli wytykają to inne osoby. Mimo to błędne rozwiązania zdarzają się każdemu. Nawet najbardziej doświadczone osoby popełniają błędy. Kiedy ktoś inny wytknie ci błąd, nie traktuj tego jak obelgi. Przeanalizuj błąd i wyciągnij z niego wnioski.
-
-    Zdarza się też, że ktoś sądzi, że znalazł w twoim rozumowaniu błąd, ponieważ go nie rozumie. Z tego też płynie jakaś lekcja. Osoba może nie rozumieć któregoś kroku i nawet nie zdawać sobie z tego sprawy, z kolei ty możesz zobaczyć, w którym miejscu twoje wyjaśnienie nie było dostatecznie przejrzyste.
-  </details>
-
 * **Wspólne rozwiązywanie zadań nie jest zakazane**
 
   <details>
@@ -215,6 +205,26 @@ Czas konsultacji danego prowadzącego sprawdzić można w [Systemie Zapisów](ht
     <summary>Szczegóły</summary>
 
     Trzeba pamiętać, że dla uzyskania najlepszych efektów, grupa nie powinna być zbyt duża. W dużych grupach wiele osób nie jest w stanie się wypowiedzieć, zadać pytania, czy rzucić uwagi. Najlepiej spotykać się w maksymalnie 4-osobowych grupach (idealnie 2-3-osobowych), w których każdy będzie czuł się komfortowo.
+  </details>
+
+* **Zwracaj uwagę na błędy**
+
+  <details>
+    <summary>Szczegóły</summary>
+
+    Jeśli widzisz błąd w czyimś rozwiązaniu, mów o tym otwarcie. Staraj się być przy tym uprzejmy, by nie urazić drugiej osoby. Pamiętaj, że jeśli ty nie zwrócisz uwagi na ten błąd, to znajdzie go ktoś inny (być może prowadzący podczas ćwiczeń czy egzaminu).
+
+    Może być też tak, że błąd który dostrzegasz nie jest błędem i wynika z tego, że nie rozumiesz rozwiązania. Nie wstydź się tego. Pamiętaj, że spotykacie się po to, by wspólnie się uczyć.
+  </details>
+
+* **Bądź otwarty na konstruktywną krytykę**
+
+  <details>
+    <summary>Szczegóły</summary>
+
+    Czasem ciężko jest przyjąć, że nasze rozumowanie jest błędne, szczególnie jeśli zwracają na to uwagę inne osoby. Mimo to błędne rozwiązania zdarzają się każdemu. Nawet najbardziej doświadczone osoby popełniają błędy. Kiedy ktoś inny pokaże ci twój błąd, nie traktuj tego jak obelgi. Przeanalizuj go i wyciągnij z niego wnioski.
+
+    Zdarza się też, że ktoś sądzi, że znalazł w twoim rozumowaniu błąd, ponieważ go nie rozumie. Nie bądź wtedy złośliwy. Spróbuj dowiedzieć się, czemu ktoś źle cię zrozumiał. Być może fragment rozwiązania, który dla ciebie jest oczywisty, nie jest taki dla innych.
   </details>
 
 ---
