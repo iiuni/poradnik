@@ -595,7 +595,8 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 > ~~Jeśli będziesz chciał ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), będziesz musiał zapłacić za jego powtarzanie. Opłata za ponowne przystąpienie do ćwiczeń/pracowni w wymiarze 30 godzin wynosi ok. 270 zł; za każde niezaliczone zajęcia pomocnicze jest naliczana osobna opłata. Suma opłat jest podzielona na 4 raty, płatne co miesiąc w ustalonym terminie. Jego przekroczenie generuje niewielkie odsetki.~~
 >
-> **Od roku akademickiego. 2021/2022:** Raz zaliczonych zajęć nie trzeba i nie można ponownie zaliczać (chyba że w przypadku ponownej rekrutacji). W przypadku zaliczonych zajęć pomocniczych zatem należy zapłacić jedynie za poprawianie egzaminu.
+> **Od roku akademickiego. 2021/2022:** Jeśli zaliczyłeś zajęcia pomocnicze, przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa.
+
 
 </details>
 
