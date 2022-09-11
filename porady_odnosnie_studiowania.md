@@ -18,21 +18,19 @@ Porady odnośnie studiowania napisane przez doświadczonych studentów, którym 
 
 ## Wykorzystanie możliwości uczelni
 
-Nasza uczelnia oferuje dużo możliwości dla studentów, którzy chcą te możliwości wykorzystać.
+Nasza uczelnia oferuje dużo możliwości dla studentów, którzy chcą je wykorzystać.
 
 ### Wykłady
 
-Podczas wykładów prowadzący opowiada (wykłada) materiał. Należy jednak pamiętać, że wykładowca zazwyczaj opowiada dość pobieżnie, oczekując, że jeśli nie będziesz czegoś rozumieć, będziesz zadawać pytania.
-
-Wykłady też nie mają być jedynym miejscem, w którym zyskujesz wiedzę. Wykładowca oczekuje, że przeczytasz dodatkowe materiały i poświęcisz czas by zrozumieć materiał.
+Podczas wykładów prowadzący opowiada (wykłada) materiał. Należy jednak pamiętać, że samo wysłuchanie materiału nie gwarantuje jego zrozumienia. Wykładowca oczekuje, że będziesz zadawać pytania, zapoznasz się z dodatkowymi materiałami i poświęcisz czas, by zrozumieć wszystkie prezentowane zagadnienia.
 
 * **Zadawaj pytania pomagające zrozumieć materiał**
   <details>
-  <summary>Szczegóły</summary>
+    <summary>Szczegóły</summary>
 
-  Główną przewagą wykładów na żywo nad czytaniem notatek czy oglądaniem nagrań jest możliwość zadawania pytań. Nie wstydź się zadawać pytania (patrz: [Strach przed pytaniami](#strach-przed-pytaniami)), kiedy tylko się zgubisz lub nie będziesz czegoś rozumieć.
+    Główną przewagą wykładów na żywo nad czytaniem notatek czy oglądaniem nagrań jest możliwość zadawania pytań. Nie wstydź się zadawać pytania (patrz: [Strach przed pytaniami](#strach-przed-pytaniami)), kiedy tylko się zgubisz lub nie będziesz czegoś rozumieć.
 
-  Pamiętaj o zachowaniu odpowiedniej kultury. Podnieś rękę, jeśli prowadzący stoi twarzą do Ciebie, lub uprzejmie zapytaj, czy możesz zadać pytanie, jeśli prowadzący stoi twarzą do tablicy.
+    Pamiętaj o zachowaniu odpowiedniej kultury. Podnieś rękę, jeśli prowadzący stoi twarzą do Ciebie, lub uprzejmie zapytaj, czy możesz zadać pytanie, jeśli prowadzący stoi twarzą do tablicy.
 
   </details>
 
@@ -41,7 +39,7 @@ Wykłady też nie mają być jedynym miejscem, w którym zyskujesz wiedzę. Wyk�
   <details>
     <summary>Szczegóły</summary>
 
-    Jeśli interesują cię dodatkowe tematy, niezwiązane bezpośrednio z wykładem, wstrzymaj się z pytaniami do przerwy bądź zadaj je po wykładzie. Wykłady mają ograniczony czas, wchodzenie w dygresje może sprawić, że prowadzącemu nie uda się przez to zrealizować materiału. Może to też wybić pozostałych studentów i utrudnić im zrozumienie.
+    Jeśli interesują cię dodatkowe tematy, niezwiązane bezpośrednio z wykładem, wstrzymaj się z pytaniami do przerwy bądź zadaj je po wykładzie. Wykłady mają ograniczony czas, wchodzenie w dygresje może sprawić, że prowadzącemu nie uda się przez to zrealizować materiału. Może to też wybić pozostałych studentów z rytmu i utrudnić im zrozumienie.
 
   </details>
 
@@ -102,12 +100,20 @@ Wykłady też nie mają być jedynym miejscem, w którym zyskujesz wiedzę. Wyk�
 
     Prezentując zadanie pod tablicą, nie skupiaj się na przepisaniu rozwiązania. Zamiast tego zaprezentuj ideę. Nie zawsze wszystkie kroki są potrzebne, czasem zaciemniają one rozwiązanie. Jeśli prowadzący będzie chciał, żeby któryś krok był dokładniej opisany, z pewnością to powie.
 
-    Skup się na mówieniu i tłumaczeniu, zapisuj tylko kluczowe rzeczy. Jednym z głównych celów prezentowania rozwiązania jest wytłumaczenie go sali. Jeśli będziesz w stanie to zrobić, pokażesz też, że dobrze rozumiesz prezentowane zadanie.
+    Skup się na mówieniu i tłumaczeniu, zapisuj tylko kluczowe rzeczy chyba, że prowadzący chce inaczej. Jednym z głównych celów prezentowania rozwiązania jest wytłumaczenie go sali. Jeśli będziesz w stanie to zrobić, pokażesz też, że dobrze rozumiesz prezentowane zadanie.
   </details>
 
 ### Repetytoria
 
 Niektóre przedmioty (zazwyczaj te obowiązkowe) mają dodatkowe zajęcia nieobowiązkowe: repetytoria. Często służą one jako powtórka materiału dla studentów, którzy nie byli w stanie przyswoić go na wykładzie. Ich forma różni się w zależności od prowadzącego. Czasem są to dodatkowe wykłady, czasem mają formę konwersacji, a czasem ich forma jest zupełnie inna.
+
+* **Poznaj inną perspektywę**
+
+  <details>
+    <summary>Szczegóły</summary>
+
+    Repetytorium zazwyczaj nie jest prowadzone przez głównego wykładowcę. Dzięki temu możesz na niektóre zagadnienia spojrzeć z innego punktu widzenia.
+  </details>
 
 * **Powiedz prowadzącemu czego chcesz się dowiedzieć**
 
