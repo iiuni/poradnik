@@ -174,7 +174,7 @@ Czas konsultacji danego prowadzącego sprawdzić można w [Systemie Zapisów](ht
   <details>
     <summary>Szczegóły</summary>
 
-    Wielu prowadzących chętnie udzieli ci konsultacji nawet jeżeli nie jesteś członkiem ich grupy zajęciowej. Wiedza ta może się przydać m.in. wtedy, gdy pewien prowadzący zajęcia z przedmiotu, z którego potrzebujesz konsultacji, jest dostępny w korzystnym dla ciebie terminie.
+    Wielu prowadzących chętnie udzieli ci konsultacji, nawet jeżeli nie jesteś członkiem ich grupy zajęciowej. Wiedza ta może się przydać m.in. wtedy, gdy pewien prowadzący zajęcia z przedmiotu, z którego potrzebujesz konsultacji, jest dostępny w korzystnym dla ciebie terminie.
   </details>
 
 ---
@@ -187,6 +187,18 @@ Czas konsultacji danego prowadzącego sprawdzić można w [Systemie Zapisów](ht
     <summary>Szczegóły</summary>
 
     Siła leżąca we wspólnej nauce jest często lekceważona przez studentów. Wspólne powtarzanie materiału, wzajemne tłumaczenie zagadnień i poprawianie błędów dużo daje. Podobnie jak wspólne rozwiązywanie zadań na ćwiczenia.
+
+    Wasza wspólna wiedza jest zazwyczaj dużo większa, niż wiedza pojedynczej osoby. Tłumaczenie zagadnień osobom które ich nie rozumieją pogłębia również nasze zrozumienie tematu, a szukanie błędów w cudzym toku rozumowania może nas nauczyć odkrywać błędy także w naszych rozwiązaniach.
+  </details>
+
+* **Wytykaj błędy i nie obrażaj się gdy robią to inni**
+
+  <details>
+    <summary>Szczegóły</summary>
+
+    Czasem ciężko jest przyjąć, że nasze rozumowanie jest błędne, szczególnie jeśli wytykają to inne osoby. Mimo to błędne rozwiązania zdarzają się każdemu. Nawet najbardziej doświadczone osoby popełniają błędy. Kiedy ktoś inny wytknie ci błąd, nie traktuj tego jak obelgi. Przeanalizuj błąd i wyciągnij z niego wnioski.
+
+    Zdarza się też, że ktoś sądzi, że znalazł w twoim rozumowaniu błąd, ponieważ go nie rozumie. Z tego też płynie jakaś lekcja. Osoba może nie rozumieć któregoś kroku i nawet nie zdawać sobie z tego sprawy, z kolei ty możesz zobaczyć, w którym miejscu twoje wyjaśnienie nie było dostatecznie przejrzyste.
   </details>
 
 * **Wspólne rozwiązywanie zadań nie jest zakazane**
@@ -287,12 +299,14 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
   </details>
 
 
-* **Odkryj, kiedy szybciej jest poprosić o pomoc**
+* **Odkryj, kiedy poprosić o pomoc**
 
   <details>
     <summary>Szczegóły</summary>
 
-    Niestety ciężko jest stwierdzić, kiedy należy przestać samodzielnie próbować rozwiązać zadanie czy zrozumieć zagadnienie i zacząć prosić o pomoc innych. Osoby z mniejszym doświadczeniem często zadają więcej pytań, a osoby z większym częściej samodzielnie próbują rozwiązać zadanie. Mimo to nawet najbardziej doświadczone osoby często potrzebują pomocy. Zrozumienie, kiedy jest moment, w którym szybciej jest poprosić kogoś o pomoc, przyjdzie z czasem, więc nie bój się popełniać w tej kwestii błędów. Czasem stracisz więcej czasu, a czasem kogoś zirytujesz. Wiele osób przez to przechodziło i nie jest to powód do wstydu.
+    Samodzielne rozwiązywanie problemów jest często dużo lepszym sposobem na naukę. Mimo to w niektórych sytuacjach znacznie szybciej jest poprosić o pomoc. Inne osoby mogły już borykać się z podobnymi problemami i mogą być one w stanie znacznie lepiej wytłumaczyć, jak należy się zabrać do rozwiązania. Wiąże się to jednak z innymi problemami. Zbyt częste proszenie kogoś o pomoc może nie tylko zdenerwować daną osobę, ale odbierze ci też samodzielność, której musisz się nauczyć.
+
+    Niestety ciężko jest stwierdzić, kiedy należy przestać samodzielnie próbować rozwiązać zadanie czy zrozumieć zagadnienie i zacząć prosić o pomoc innych. Osoby z mniejszym doświadczeniem często zadają więcej pytań, a osoby z większym częściej samodzielnie próbują rozwiązać zadanie. Mimo to nawet najbardziej doświadczone osoby często potrzebują pomocy. Zrozumienie, kiedy jest moment, w którym korzystniej jest poprosić kogoś o pomoc, przyjdzie z czasem, więc nie bój się popełniać w tej kwestii błędów. Czasem stracisz więcej czasu, a czasem kogoś zirytujesz. Wiele osób przez to przechodziło i nie jest to powód do wstydu.
   </details>
 
 
