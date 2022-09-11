@@ -607,13 +607,14 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 >
 > **Od roku akademickiego. 2020/2021 (?):** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu).
 >
-> <details>
->
-> <summary>Jak sprawdzić, ile kosztuje mnie powtarzanie przedmiotu?</summary>
->
-> ![opłaty](/images/oplaty.png)
 
 </details>
+  
+<details>
+
+<summary>Jak sprawdzić, ile kosztuje mnie powtarzanie przedmiotu?</summary>
+
+![opłaty](/images/oplaty.png)
 
 </details>
 
