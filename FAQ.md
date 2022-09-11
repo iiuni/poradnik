@@ -50,14 +50,7 @@
 <details>
 <summary>Czy bez matury z Y mam szansę dostać się na studia?</summary>
 
-> W postępowaniu rekrutacyjnym brane będą pod uwagę wyniki egzaminów maturalnych z matematyki, informatyki, fizyki i astronomii oraz dowolnego języka obcego nowożytnego. Więcej informacji znajdziesz na stronie [rekrutacji](https://rekrutacja.uni.wroc.pl/kierunek/informatyka-i-stopnia-stacjonarne-licencjackie-i-inzynierskie/#zasady).
-
-</details>
-
-<details>
-<summary>Nasze studia vs inne studia</summary>
-
-> Mamy naprawdę przemiłe panie w dziekanacie!
+> W postępowaniu rekrutacyjnym brane będą pod uwagę wyniki egzaminów maturalnych z matematyki, informatyki, fizyki oraz dowolnego języka obcego nowożytnego. Więcej informacji znajdziesz na stronie [rekrutacji](https://rekrutacja.uni.wroc.pl/kierunek/informatyka-i-stopnia-stacjonarne-licencjackie-i-inzynierskie/#zasady).
 
 </details>
 
@@ -126,7 +119,7 @@
 <details>
 <summary>Czy sale są otwarte? Czy mogę "wypożyczyć" salę?</summary>
 
-> Sale ćwiczeniowe bez telewizorów są otwarte, można przed zajęciami przyjść i czekać w nich na zajęcia. Sale z telewizorami są zamknięte i drzwi otwiera dopiero prowadzący. Sale komputerowe też są zamknięte na klucz, ale ten klucz można "wypożyczyć" w portierni. W tym celu należy oddać swoją legitymację, wpisać godzinę pobrania klucza i podpisać się w zeszycie wypożyczeń. W salach komputerowych można korzystać z komputerów, można podłączyć swojego laptopa (jest dużo gniazdek), można skorzystać z tablicy suchościeralnej.
+> Sale ćwiczeniowe bez telewizorów są otwarte, można do nich przyjść, gdy nie ma w nich zajęć, i na przykład wykorzystać je do grupowej lub indywidualnej nauki. Sale z telewizorami są zamknięte i drzwi otwiera dopiero prowadzący. Sale komputerowe oraz małe sale wykładowe też są zamknięte na klucz, ale ten klucz można "wypożyczyć" w portierni. W tym celu należy oddać swoją legitymację, wpisać godzinę pobrania klucza i podpisać się w zeszycie wypożyczeń. W salach można korzystać z komputerów, z rzutników, z tablic, oraz można podłączyć swojego laptopa (jest dużo gniazdek).
 
 </details>
 
@@ -145,9 +138,9 @@
 </details>
 
 <details>
-<summary>Czy mogę siedzieć z laptopem na wykładzie?</summary>
+<summary>Czy mogę siedzieć z laptopem na zajęciach?</summary>
 
-> No niby tak (i wiele osób tak robi, ale nasuwa się pytanie, po co w takim razie przychodzą na wykład?). Raczej nie siedź wtedy w pierwszych ławkach (gdzie domyślnie siedzi najbardziej aktywna widownia, z którą prowadzący utrzymuje kontakt wzrokowy), żeby nie okazywać lekceważenia wykładowcy.
+> Zapewne zależy to od prowadzącego oraz od sposobu używania laptopa. Istotną sprawą jest korzystanie z laptopa w taki sposób, by prowadzący nie poczuł się przez to lekceważony. Jeżeli laptop ma służyć pisaniu notatek lub otworzeniu materiałów związanych z zajęciami (obecnie są to częste praktyki), to nie powinien on stanowić problemu, choć pewnie warto upewnić się o tym u prowadzącego. Jeżeli natomiast zamierzasz korzystać z laptopa w sposób niezwiązany z zajęciami, to raczej nie siedź wtedy w pierwszych ławkach (domyślnie zajmowanych przez najbardziej aktywną widownię, z którą prowadzący utrzymuje kontakt wzrokowy lub werbalny).
 
 </details>
 
@@ -166,7 +159,7 @@
 > Odpowiednio wysokie oceny przydadzą się w przynajmniej czterech sytuacjach:
 >
 > 1.  Stypendium za oceny w nauce.
->     Na początku każdego roku akademickiego można wystąpić z wnioskiem o przyznanie stypendium za wyniki w nauce (składa się go przez USOS). Dostaje je 7.5% najlepszych studentów z danego kierunku, a ich miesięczna kwota to około 600 zł. Nie ma konkretnego wymogu, jak wysoka powinna być średnia ocen, by je dostać, ale zazwyczaj na informatyce średnia w okolicach 4,65 wystarczała. Jak wspominam później, jeśli nie idzie nam z jakiegoś przedmiotu i może to zaważyć na wysokości średniej, można się z tego przedmiotu wypisać.
+>     Na początku każdego roku akademickiego można wystąpić z wnioskiem o przyznanie stypendium za wyniki w nauce (składa się go przez USOS). Dostaje je 7.5% najlepszych studentów z danego kierunku, a ich miesięczna kwota to około 900 zł. Nie ma konkretnego wymogu, jak wysoka powinna być średnia ocen, by je dostać. W ostatnich latach próg stanowiła średnia na poziomie około 4.70 (warto nadmienić, że w 2021. roku próg wyniósł 4.79). Jak wspominam później, jeśli nie idzie nam z jakiegoś przedmiotu i może to zaważyć na wysokości średniej, można się z tego przedmiotu wypisać.
 >
 > 2.  Przepisanie się na inną uczelnię lub przepisanie ocen z innych kierunków.
 >     Wtedy wyższa ocena z przedmiotu może zadecydować o tym czy przedmiot zostanie uznany jako zaliczony bądź nie (np. dana jednostka uczelniana może uznać, że przepisuje przedmiot dopiero od oceny 4.0).
@@ -292,7 +285,7 @@
 
 <details>
 
-<summary>Przedmiot, na który chcę się zapisać, ma w wymagania wstępne, których jeszcze nie spełniłem. Czy mimo to mogę się na niego zapisać?</summary>
+<summary>Przedmiot, na który chcę się zapisać, ma wymagania wstępne, których jeszcze nie spełniam. Czy mimo to mogę się na niego zapisać?</summary>
 
 > Wymagania przedmiotu są orientacyjne. Prowadzący zakłada, że słuchacze posiadają wiedzę z podanych przedmiotów, co pozwoli w pełni zrozumieć wykładany materiał. Zaliczenie przedmiotów nie jest wymagane, jednak prowadzący może przeprowadzić egzamin wstępny decydujący o przydzieleniu miejsca w grupie.
 
@@ -310,7 +303,7 @@
 
 <summary>Co to są repetytoria? Czy muszę na nie chodzić?</summary>
 
-> Repetytoria to zajęcia pomocnicze, mające na celu ułatwienie studentom przyswojenia wiedzy z wykładów. Nie są one obowiązkowe, ale zalecane dla osób, które mają trudności ze zrozumieniem materiału lub rozwiązaniem zadań na ćwiczenia.
+> Repetytoria to zajęcia pomocnicze, mające na celu ułatwienie studentom przyswojenia wiedzy z wykładów. Można podczas nich zadawać prowadzącemu pytania na temat materiału wykładowego lub ćwiczeniowego lub poprosić o omówienie pewnego zagadnienia od początku. Nie są one obowiązkowe, ale zalecane (nie tylko) dla osób, które mają trudności ze zrozumieniem materiału lub rozwiązaniem zadań na ćwiczenia. Warto z nich korzystać również w celu utrwalenia wiedzy i pogłębienia zrozumienia tematyki - prowadzący repetytorium może zaoferować inne spojrzenie.
 
 </details>
 
@@ -326,9 +319,9 @@
 
 <summary>Czy obecność na ćwiczeniach/pracowniach jest obowiązkowa?</summary>
 
-> Obecność na ćwiczeniach i pracowniach zazwyczaj nie jest weryfikowana<sup>\*</sup>, lecz aktywność (do której niezbędna jest obecność) na nich może wpłynąć na ocenę z przedmiotu.
+> Prowadzący mają prawo weryfikować obecność na ćwiczeniach i pracowniach. Konsekwencje nieobecności na danych zajęciach najlepiej jest sprawdzić indywidualnie dla każdego przedmotu w jego regulaminie. Należy mieć na uwadze, że na niektórych przedmiotach aktywność studenta na ćwiczeniach lub pracowniach wpływa na jego ocenę końcową z tych zajęć, mimo że nie istnieją bezpośrednie konsekwencje nieobecności.
 >
-> <sup>\*</sup> wyjątki: ćwiczenia z Analizy numerycznej M (3. sem), częściowo na Matematyce dyskretnej M (3. sem), Algorytmów i struktur danych (4. sem).
+> Przykładowymi zajęciami, na których obecność pełni istotną rolę w ich zaliczeniu, są: ćwiczenia z Analizy numerycznej M (3. sem), ćwiczenia z Matematyki dyskretnej M (3. sem), ćwiczenia z Algorytmów i struktur danych (4. sem).
 
 </details>
 
@@ -542,7 +535,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>Co z zajęciami WF?</summary>
 
-> WF jest obowiązkowy. Na WF można zapisywać się co semestr na uniwersyteckiej stronie [zapisów](https://zapisy.uni.wroc.pl).
+> WF jest obowiązkowy. Na WF można zapisywać się co semestr na uniwersyteckiej stronie [zapisów](https://zapisy.uni.wroc.pl). Studentów obowiązuje 60 godzin WFu, co odpowiada dwóm semestrom. WF można zaliczyć także poprzez uczestnictwo w obozie sportowo-rekreacyjnym, na jego podstawie można zaliczyć 30 godzin.
 
 </details>
 
@@ -593,9 +586,8 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>Nie zaliczyłem ćwiczeń i/lub pracowni, co dalej?</summary>
 
-> ~~Jeśli będziesz chciał ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), będziesz musiał zapłacić za jego powtarzanie. Opłata za ponowne przystąpienie do ćwiczeń/pracowni w wymiarze 30 godzin wynosi ok. 270 zł; za każde niezaliczone zajęcia pomocnicze jest naliczana osobna opłata. Suma opłat jest podzielona na 4 raty, płatne co miesiąc w ustalonym terminie. Jego przekroczenie generuje niewielkie odsetki.~~
->
-> **Od roku akademickiego. 2021/2022:** jeśli nie zdałeś którychkolwiek z zajęć pomocniczych, przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa.
+> Jeśli będziesz chciał ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), będziesz musiał zapłacić za jego powtarzanie. Opłata za ponowne przystąpienie do ćwiczeń/pracowni w wymiarze 30 godzin wynosi ok. 270 zł; za każde niezaliczone zajęcia pomocnicze jest naliczana osobna opłata. Suma opłat jest podzielona na 4 raty, płatne co miesiąc w ustalonym terminie. Jego przekroczenie generuje niewielkie odsetki.
+
 
 </details>
 
@@ -605,15 +597,18 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 > ~~W następnym roku akademickim możesz bez opłat przystąpić do obu terminów egzaminu.~~
 >
-> **Od roku akademickiego. 2020/2021 (?):** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu).
+> **Od roku akademickiego 2020/2021:** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu). 
 >
-> <details>
+> **Od roku akademickiego 2021/2022:** Jeśli zaliczyłeś zajęcia pomocnicze (ćwiczenia/pracownie), przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa.
 >
-> <summary>Jak sprawdzić, ile kosztuje mnie powtarzanie przedmiotu?</summary>
->
-> ![opłaty](/images/oplaty.png)
 
 </details>
+  
+<details>
+
+<summary>Jak sprawdzić, ile kosztuje mnie powtarzanie przedmiotu?</summary>
+
+![opłaty](/images/oplaty.png)
 
 </details>
 
