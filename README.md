@@ -11,7 +11,7 @@
 
 Zbiór różnych informacji i poradników, tworzony przez studentów II UWr dla studentów II UWr.
 
-Polecamy zacząć od sekcji [**Porady odnośnie studiowania**](porady_odnosnie_studiowania.md) a następnie zapoznać się z [**FAQ**](FAQ.md)
+Polecamy zacząć od sekcji [**Porady odnośnie studiowania**](porady_odnosnie_studiowania.md), a następnie zapoznać się z [**FAQ**](FAQ.md).
 
 Dokładamy wszelkich starań aby informacje zawarte tutaj były poprawne i aktualne, ale nie możemy tego zagwarantować.
 
