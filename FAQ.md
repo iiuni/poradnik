@@ -50,7 +50,7 @@
 <details>
 <summary>Czy bez matury z Y mam szansę dostać się na studia?</summary>
 
-> W postępowaniu rekrutacyjnym brane będą pod uwagę wyniki egzaminów maturalnych z matematyki, informatyki, fizyki i astronomii oraz dowolnego języka obcego nowożytnego. Więcej informacji znajdziesz na stronie [rekrutacji](https://rekrutacja.uni.wroc.pl/kierunek/informatyka-i-stopnia-stacjonarne-licencjackie-i-inzynierskie/#zasady).
+> W postępowaniu rekrutacyjnym brane będą pod uwagę wyniki egzaminów maturalnych z matematyki, informatyki, fizyki oraz dowolnego języka obcego nowożytnego. Więcej informacji znajdziesz na stronie [rekrutacji](https://rekrutacja.uni.wroc.pl/kierunek/informatyka-i-stopnia-stacjonarne-licencjackie-i-inzynierskie/#zasady).
 
 </details>
 
@@ -535,7 +535,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>Co z zajęciami WF?</summary>
 
-> WF jest obowiązkowy. Na WF można zapisywać się co semestr na uniwersyteckiej stronie [zapisów](https://zapisy.uni.wroc.pl).
+> WF jest obowiązkowy. Na WF można zapisywać się co semestr na uniwersyteckiej stronie [zapisów](https://zapisy.uni.wroc.pl). Studentów obowiązuje 60 godzin WFu, co odpowiada dwóm semestrom. WF można zaliczyć także poprzez uczestnictwo w obozie sportowo-rekreacyjnym, na jego podstawie można zaliczyć 30 godzin.
 
 </details>
 
@@ -586,9 +586,8 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>Nie zaliczyłem ćwiczeń i/lub pracowni, co dalej?</summary>
 
-> ~~Jeśli będziesz chciał ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), będziesz musiał zapłacić za jego powtarzanie. Opłata za ponowne przystąpienie do ćwiczeń/pracowni w wymiarze 30 godzin wynosi ok. 270 zł; za każde niezaliczone zajęcia pomocnicze jest naliczana osobna opłata. Suma opłat jest podzielona na 4 raty, płatne co miesiąc w ustalonym terminie. Jego przekroczenie generuje niewielkie odsetki.~~
->
-> **Od roku akademickiego. 2021/2022:** jeśli nie zdałeś którychkolwiek z zajęć pomocniczych, przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa.
+> Jeśli będziesz chciał ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), będziesz musiał zapłacić za jego powtarzanie. Opłata za ponowne przystąpienie do ćwiczeń/pracowni w wymiarze 30 godzin wynosi ok. 270 zł; za każde niezaliczone zajęcia pomocnicze jest naliczana osobna opłata. Suma opłat jest podzielona na 4 raty, płatne co miesiąc w ustalonym terminie. Jego przekroczenie generuje niewielkie odsetki.
+
 
 </details>
 
@@ -598,7 +597,9 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 > ~~W następnym roku akademickim możesz bez opłat przystąpić do obu terminów egzaminu.~~
 >
-> **Od roku akademickiego. 2020/2021 (?):** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu).
+> **Od roku akademickiego 2020/2021:** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu). 
+>
+> **Od roku akademickiego 2021/2022:** Jeśli zaliczyłeś zajęcia pomocnicze (ćwiczenia/pracownie), przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa.
 >
 
 </details>
