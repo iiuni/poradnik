@@ -159,7 +159,7 @@
 > Odpowiednio wysokie oceny przydadzą się w przynajmniej czterech sytuacjach:
 >
 > 1.  Stypendium za oceny w nauce.
->     Na początku każdego roku akademickiego można wystąpić z wnioskiem o przyznanie stypendium za wyniki w nauce (składa się go przez USOS). Dostaje je 7.5% najlepszych studentów z danego kierunku, a ich miesięczna kwota to około 600 zł (w roku 2021/2022 ta kwota wyniosła 900 zł). Nie ma konkretnego wymogu, jak wysoka powinna być średnia ocen, by je dostać, ale zazwyczaj na informatyce średnia w okolicach 4,65 wystarczała (natomiast w roku 2021 średnią stypendialną było niemal 4,8). Jak wspominam później, jeśli nie idzie nam z jakiegoś przedmiotu i może to zaważyć na wysokości średniej, można się z tego przedmiotu wypisać.
+>     Na początku każdego roku akademickiego można wystąpić z wnioskiem o przyznanie stypendium za wyniki w nauce (składa się go przez USOS). Dostaje je 7.5% najlepszych studentów z danego kierunku, a ich miesięczna kwota to około 900 zł. Nie ma konkretnego wymogu, jak wysoka powinna być średnia ocen, by je dostać. W ostatnich latach próg stanowiła średnia na poziomie około 4.70 (warto nadmienić, że w 2021. roku próg wyniósł 4.79). Jak wspominam później, jeśli nie idzie nam z jakiegoś przedmiotu i może to zaważyć na wysokości średniej, można się z tego przedmiotu wypisać.
 >
 > 2.  Przepisanie się na inną uczelnię lub przepisanie ocen z innych kierunków.
 >     Wtedy wyższa ocena z przedmiotu może zadecydować o tym czy przedmiot zostanie uznany jako zaliczony bądź nie (np. dana jednostka uczelniana może uznać, że przepisuje przedmiot dopiero od oceny 4.0).
