@@ -100,7 +100,7 @@ Podczas wykładów prowadzący opowiada (wykłada) materiał. Należy jednak pam
 
     Prezentując zadanie pod tablicą, nie skupiaj się na przepisaniu rozwiązania. Zamiast tego zaprezentuj ideę. Nie zawsze wszystkie kroki są potrzebne, czasem zaciemniają one rozwiązanie. Jeśli prowadzący będzie chciał, żeby któryś krok był dokładniej opisany, z pewnością to powie.
 
-    Skup się na mówieniu i tłumaczeniu, zapisuj tylko kluczowe rzeczy chyba, że prowadzący chce inaczej. Jednym z głównych celów prezentowania rozwiązania jest wytłumaczenie go sali. Jeśli będziesz w stanie to zrobić, pokażesz też, że dobrze rozumiesz prezentowane zadanie.
+    Skup się na mówieniu i tłumaczeniu, zapisuj tylko kluczowe rzeczy, chyba że prowadzący chce inaczej. Jednym z głównych celów prezentowania rozwiązania jest wytłumaczenie go sali. Jeśli będziesz w stanie to zrobić, pokażesz też, że dobrze rozumiesz prezentowane zadanie.
   </details>
 
 ### Repetytoria
