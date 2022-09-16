@@ -359,6 +359,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 > Tak, otrzymuje się wtedy tyle punktów, ile jest niezbędne do zakończenia studiów (3 ects przy licencjacie, 4 ects dla inżynierów).
 > By to zrobić należy wypełnić podanie o zwolnienie z praktyki zawodowej i wraz z kserokopią umowy o pracę dostarczyć do dr Leszka Grocholskiego, który jest opiekunem praktyk zawodowych dla kierunku Informatyka.
+> W przypadku zwolnienia z praktyk zawodowych również należy zapisać się na przedmiot Praktyka zawodowa - trzy tygodnie (lic.) / cztery tygodnie (inż.). Można zrobić to już po uwolnieniu limitu ECTS.
 
 </details>
 
@@ -484,6 +485,8 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 >
 > Należy wtedy napisać podanie skierowane do Dziekana Wydziału Matematyki i Informatyki z prośbą o zwolnienie z projektu zespołowego na podstawie .....
 > Opisać w ile osób państwo pracowali, na czym polegało zadanie składającego podanie i jakich narzędzi informatycznych używał. Jeśli zakres prac nie wynika z umowy musi być ono (podanie) potwierdzone przez kogoś z firmy, jeśli jest to w umowie, dostarczyć jej kserokopia. Ponadto podanie musi być zaopiniowane przez pracownika Instytutu Informatyki, który prowadzi jakiś przedmiot typu projekt.
+>
+> UWAGA! Projektu zespołowego nie można zaliczyć poprzez pracę inżynierską realizowaną w grupie.
 
 </details>
 
