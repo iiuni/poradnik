@@ -4,6 +4,7 @@
 
 * [Porady odnośnie studiowania](porady_odnosnie_studiowania.md)
 * [FAQ](FAQ.md)
+* [Przydatne linki](przydatne_linki.md)
 * [Instrukcja obsługi dla studentów autorstwa Tomasza Wierzbickiego](instrukcja_obslugi_dla_studentow.md)
 * [Jak zapisać się na przedmiot z innego kierunku (by Kuba Nowak)](przedmioty_z_innego_kierunku.md)
 
