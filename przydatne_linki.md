@@ -11,6 +11,8 @@ SKOS: https://skos.ii.uni.wroc.pl/
 
 Zapisy: https://zapisy.ii.uni.wroc.pl
 
+Terminy egzaminów: https://zapisy.ii.uni.wroc.pl/session/
+
 Mail: https://outlook.office.com/
 
 Program studiów (Informatyka): https://ii.uni.wroc.pl/media/uploads/Program_studiow_Inf_LI(2)_WECibSo.pdf
