@@ -23,6 +23,7 @@
 * [Dni adaptacyjne](#dni-adaptacyjne)
 * [Budynek instytutu](#budynek-instytutu)
 * [Studia vs szkoła](#studia-vs-szkoła)
+* [Stypendium](#stypendium)
 * [Kontakt z prowadzącymi](#kontakt-z-prowadzącymi)
 * [Plan zajęć](#plan-zajęć)
 * [Przedmioty](#przedmioty)
@@ -159,7 +160,6 @@
 > Odpowiednio wysokie oceny przydadzą się w przynajmniej czterech sytuacjach:
 >
 > 1.  Stypendium za oceny w nauce.
->     Na początku każdego roku akademickiego można wystąpić z wnioskiem o przyznanie stypendium za wyniki w nauce (składa się go przez USOS). Dostaje je 7.5% najlepszych studentów z danego kierunku, a ich miesięczna kwota to około 900 zł. Nie ma konkretnego wymogu, jak wysoka powinna być średnia ocen, by je dostać. W ostatnich latach próg stanowiła średnia na poziomie około 4.70 (warto nadmienić, że w 2021. roku próg wyniósł 4.79). Jak wspominam później, jeśli nie idzie nam z jakiegoś przedmiotu i może to zaważyć na wysokości średniej, można się z tego przedmiotu wypisać.
 >
 > 2.  Przepisanie się na inną uczelnię lub przepisanie ocen z innych kierunków.
 >     Wtedy wyższa ocena z przedmiotu może zadecydować o tym czy przedmiot zostanie uznany jako zaliczony bądź nie (np. dana jednostka uczelniana może uznać, że przepisuje przedmiot dopiero od oceny 4.0).
@@ -179,6 +179,53 @@
 > Na zajęcia staramy się przyjść punktualnie. Zazwyczaj wejście w środku zajęć oznacza duże zamieszanie - aby umożliwić spóźnialskiemu zajęcie miejsca, często kilka osób musi wstać, przesunąć się, znowu usiąść.
 >
 > W trakcie zajęć nie pytamy, czy możemy wyjść do łazienki - po prostu robiąc jak najmniej zamieszania opuszczamy salę.
+
+</details>
+
+# Stypendium
+
+<details>
+
+<summary>Czym jest stypendium za wyniki w nauce?</summary>
+
+> Stypendium za wyniki w nauce to nagroda pieniężna przyznawana dla 7.5% najlepszych studentów z danego kierunku. Zostaje ona przyznana w każdym roku akademickim, pod uwagę brana jest średnia z ostatniego roku. Stypendium dostaje się co miesiąc, przez cały rok akademicki.
+>
+> Jeśli rekrutujemy się na studia magisterskie w semestrze letnim, możemy złożyć podanie w tym samym semestrze. Brana jest wtedy pod uwagę średnia z ostatniego roku akademickiego studiów 1 stopnia.
+
+</details>
+
+<details>
+
+<summary>Jak zdobyć stypendium za wyniki w nauce?</summary>
+
+> W celu zdobycia stypendium za wyniki w nauce należy w odpowiednim momencie złożyć podanie przez system USOS.
+
+</details>
+
+<details>
+
+<summary>Czy powinienem składać podanie za wyniki w nauce jeśli nie mam wysokiej średniej?</summary>
+
+> Stypendium przyznawane jest 7.5% najlepszych studentów, którzy złożyli wniosek o jego przyznanie. Do czasu ogłoszenia wyników nie ma więc sposobu by stwierdzić, czy będziemy mieli wystarczająco wysoką średnią. W danym roku akademickim wymagana średnia może spaść, może być też tak, że osoby z wyższą średnią od nas nie złożą podania i wskoczymy na ich miejsce. Złożenie samego podania nic nie kosztuje, warto więc jest to zrobić.
+
+</details>
+
+<details>
+
+<summary>Jaka średnia była wystarczająca by uzyskać stypendium w ostatnich latach?</summary>
+
+> Zazwyczaj była to średnia w okolicach 4.70
+>
+> W roku 2021 próg wyniósł 4.79
+
+</details>
+
+
+<details>
+
+<summary>Jaka jest miesięczna kwota stypendium za wyniki w nauce?</summary>
+
+> Miesięczna kwota stypendium to około 900 złotych.
 
 </details>
 
