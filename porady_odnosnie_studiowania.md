@@ -260,6 +260,7 @@ Wielu studentów, zupełnie niepotrzebnie, boi się zadawać pytania, zarówno p
     </details>
 
 ---
+
 ## Kulturalne proszenie o pomoc
 
 Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie bać się zadawać pytań i prosić o pomoc, to należy to robić z głową i szanować czas innych.
@@ -323,6 +324,7 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
     </details>
 
 ---
+
 ## Robienie notatek
 
 -   **Ucz się po swojemu**
@@ -404,9 +406,19 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
     <details>
       <summary>Szczegóły</summary>
 
-    Jeżeli nie uda Ci się napisać pracy tak, aby złożyć ją w wymaganym terminie, możesz odłożyć jej złożenie i prezentację na następny semestr. Być może będzie się to wiązało ze skreśleniem z listy studentów (patrz FAQ), ale nie jest to koniec świata. O zamiarze odłożenia terminu złożenia pracy poinformuj promotora z wyprzedzeniem.
+    Jeżeli nie uda Ci się napisać pracy tak, aby złożyć ją w wymaganym terminie, możesz odłożyć jej złożenie i prezentację na następny semestr. Być może będzie się to wiązało ze skreśleniem z listy studentów (patrz dalej), ale nie jest to koniec świata. O zamiarze odłożenia terminu złożenia pracy poinformuj promotora z wyprzedzeniem.
 
     Ponadto jeżeli termin obrony Twojej pracy inżynierskiej/licencjackiej przypada na semestr letni, możesz prezentować ją na początku września, przed sesją poprawkową. W takim przypadku stracisz możliwość przystąpienia do egzaminu w lipcu i będziesz miał tylko jeden termin podczas sesji poprawkowej.
+    </details>
+
+-   **Niezłożenie pracy ma konsekwencje**
+
+    <details>
+      <summary>Szczegóły</summary>
+
+    Jeżeli zaliczyłeś wszystkie wymagania jakie należy zrealizować przed złożeniem pracy (obowiązki, efekty, ECTS etc.), zostaniesz skreślony z listy studentów i będziesz mógł złożyć i obronić pracę w terminie do dwóch lat (cztery semestry) od daty skreślenia. Aby móc złożyć pracę, będziesz musiał złożyć wniosek o przywrócenie na listę studentów (ze względu na chęć złożenia i obrony pracy dyplomowej) na miesiąc-dwa przed terminami ich prezentacji. Uwaga: po skreśleniu z listy studentów stracisz dostęp do niektórych zasobów uniwersyteckich (np. uczelniane konto Microsoft, co może utrudnić komunikację z promotorem).
+
+    Jeżeli dalej masz do zrealizowania jakieś wymaganie/a (np. brakuje Ci kilku ectsów z jednej z grup), będziesz mógł kontynuować studia bez problemów.
     </details>
 
 -   **Możesz realizować pracę grupowo**
