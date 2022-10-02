@@ -569,7 +569,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>Jak zapisać się na przedmiot z innego kierunku?</summary>
 
-> [Poradnik autorstwa Kuby Nowaka](przemioty_z_innego_kierunku.md)
+> [Poradnik autorstwa Kuby Nowaka](przedmioty_z_innego_kierunku.md)
 
 </details>
 
