@@ -398,13 +398,14 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
 
     Koniecznie przyjdź na obronę z własnym sprzętem - laptopem, do którego można podłączyć standardowy wydziałowy rzutnik za pomocą kabla HDMI (kabel i rzutnik będą na Ciebie czekały).
 
-    Prezentacja pracy składa się z dwóch części:
+    Prezentacja pracy licencjackiej/inżynierskiej składa się z dwóch części:
 
     -   właściwej prezentacji, podczas której omawiasz pracę (jej problematykę, wykorzystane technologie i rozwiązania etc.) - przygotuj tutaj prezentację multimedialną mającą 10-15 slajdów, którą wygłosisz w 10-15 minut. Przećwicz ją przed lustrem/kaczuszką/współlokatorem, aby mieć pewność, że potrafisz wygłosić ją płynnie i bez notatek. Prezentacja za krótka bądź za długa negatywnie odbije się na Twojej ocenie
     -   pytań od recenzenta i promotora - każdy z nich może zadać Ci do trzech pytań związanych z pracą dyplomową
 
     Ponadto, jeżeli w ramach swojej pracy zaimplementowałeś system/algorytm/coś, czego działanie możesz pokazać podczas prezentacji pracy, będziesz miał na to do 10 minut między prezentacją a pytaniami od promotora i recenzenta. Upewnij się, że to, co chcesz pokazać działa prawidłowo i dla pewności nagraj film (bez audio, komentuj co dzieje się na ekranie na żywo) na wypadek gdyby Twój laptop odmówił posłuszeństwa.
 
+    Natomiast w prezentacji pracy magisterskiej do powyższych punktów dochodzi również egzamin magisterski ustny. 
   </details>
 
 * **Możesz odłożyć prezentację pracy**
