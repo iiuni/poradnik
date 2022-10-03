@@ -6,38 +6,36 @@
 <summary><b>Oryginalni twórcy</b></summary>
 
 > FAQ bazujące na wersji ze starego forum, bazującej na wersji z jeszcze starszego forum
->
+> 
 > Oryginalni autorzy FAQ:
->
-> -   [@Anna Karaś](https://github.com/annakaras)
-> -   [@Kamil Matuszewski](https://github.com/Arsenicro/)
->
+> * [@Anna Karaś](https://github.com/annakaras)
+> * [@Kamil Matuszewski](https://github.com/Arsenicro/)
+> 
 > Później rozwijane i utrzymywane przez:
->
-> -   [@Bartosz Bednarczyk](https://github.com/bartoszjanbednarczyk)
-> -   [@Dawid Dudek](https://github.com/DaDudek)
+> * [@Bartosz Bednarczyk](https://github.com/bartoszjanbednarczyk)
+> * [@Dawid Dudek](https://github.com/DaDudek)
 
 </details>
 
 ## Spis treści
 
--   [Rekrutacja](#rekrutacja)
--   [Dni adaptacyjne](#dni-adaptacyjne)
--   [Budynek instytutu](#budynek-instytutu)
--   [Studia vs szkoła](#studia-vs-szkoła)
--   [Stypendium](#stypendium)
--   [Kontakt z prowadzącymi](#kontakt-z-prowadzącymi)
--   [Plan zajęć](#plan-zajęć)
--   [Przedmioty](#przedmioty)
--   [Praktyki zawodowe](#praktyki-zawodowe)
--   [Praca dyplomowa](#praca-dyplomowa)
--   [Projekt zespołowy](#projekt-zespołowy)
--   [Praca zespołowa](#praca-zespołowa)
--   [Zapisy](#zapisy)
--   [Zajęcia](#zajęcia)
--   [Sesja](#sesja)
--   [Niepisane zasady panujące w II](#niepisane-zasady-panujące-w-ii)
--   [Oprogramowanie i pracownie](#oprogramowanie-i-pracownie)
+* [Rekrutacja](#rekrutacja)
+* [Dni adaptacyjne](#dni-adaptacyjne)
+* [Budynek instytutu](#budynek-instytutu)
+* [Studia vs szkoła](#studia-vs-szkoła)
+* [Stypendium](#stypendium)
+* [Kontakt z prowadzącymi](#kontakt-z-prowadzącymi)
+* [Plan zajęć](#plan-zajęć)
+* [Przedmioty](#przedmioty)
+* [Praktyki zawodowe](#praktyki-zawodowe)
+* [Praca dyplomowa](#praca-dyplomowa)
+* [Projekt zespołowy](#projekt-zespołowy)
+* [Praca zespołowa](#praca-zespołowa)
+* [Zapisy](#zapisy)
+* [Zajęcia](#zajęcia)
+* [Sesja](#sesja)
+* [Niepisane zasady panujące w II](#niepisane-zasady-panujące-w-ii)
+* [Oprogramowanie i pracownie](#oprogramowanie-i-pracownie)
 
 ---
 
@@ -143,7 +141,7 @@
 <details>
 <summary>Czy mogę siedzieć z laptopem na zajęciach?</summary>
 
-> Zapewne zależy to od prowadzącego oraz od sposobu używania laptopa. Istotną sprawą jest korzystanie z laptopa w taki sposób, by prowadzący nie poczuł się przez to lekceważony. Jeżeli laptop ma służyć pisaniu notatek lub otworzeniu materiałów związanych z zajęciami (obecnie są to częste praktyki), to nie powinien on stanowić problemu, choć pewnie warto upewnić się o tym u prowadzącego. Jeżeli natomiast zamierzasz korzystać z laptopa w sposób niezwiązany z zajęciami, to raczej nie siedź wtedy w pierwszych ławkach (domyślnie zajmowanych przez najbardziej aktywną widownię, z którą prowadzący utrzymuje kontakt wzrokowy lub werbalny).
+> Zapewne zależy to od prowadzącego oraz od sposobu używania laptopa. Istotną sprawą jest korzystanie z laptopa w taki sposób, by prowadzący nie poczuł się przez to lekceważony. Jeżeli laptop ma służyć pisaniu notatek lub otworzeniu materiałów związanych z zajęciami (obecnie są to częste praktyki), to nie powinien on stanowić problemu, choć pewnie warto upewnić się o tym u prowadzącego. Jeżeli natomiast zamierzasz korzystać z laptopa w sposób niezwiązany z zajęciami, to raczej nie siedź wtedy w pierwszych ławkach (domyślnie zajmowanych przez najbardziej aktywną widownię, z którą prowadzący utrzymuje kontakt wzrokowy lub werbalny).
 
 </details>
 
@@ -222,6 +220,7 @@
 
 </details>
 
+
 <details>
 
 <summary>Jaka jest miesięczna kwota stypendium za wyniki w nauce?</summary>
@@ -273,13 +272,13 @@
 >
 > Wskazówki:
 >
-> -   żadnego "witam" - dopuszczalne: "Dzień dobry, ", "Szanowny Panie, "
-> -   jedna sprawa -> jeden akapit / bullet
-> -   mail powinien być napisany z twojego studenckiego konta
-> -   jeśli z jakiegoś powodu twój adres email nie zdradza twojego imienia i nazwiska, koniecznie się podpisz
-> -   najlepiej, jeśli w tytule mejla podasz nazwę przedmiotu i skrót sprawy, z którą przychodzisz do prowadzącego
-> -   nie piszemy emotek
-> -   pierwszy akapit po przywitaniu zazwyczaj piszemy małą literą: w poprzednim akapicie nie użyliśmy w końcu kropki tylko przecinka
+> - żadnego "witam" - dopuszczalne: "Dzień dobry, ", "Szanowny Panie, "
+> - jedna sprawa -> jeden akapit / bullet
+> - mail powinien być napisany z twojego studenckiego konta
+> - jeśli z jakiegoś powodu twój adres email nie zdradza twojego imienia i nazwiska, koniecznie się podpisz
+> - najlepiej, jeśli w tytule mejla podasz nazwę przedmiotu i skrót sprawy, z którą przychodzisz do prowadzącego
+> - nie piszemy emotek
+> - pierwszy akapit po przywitaniu zazwyczaj piszemy małą literą: w poprzednim akapicie nie użyliśmy w końcu kropki tylko przecinka
 
 </details>
 
@@ -367,7 +366,7 @@
 
 <summary>Czy obecność na ćwiczeniach/pracowniach jest obowiązkowa?</summary>
 
-> Prowadzący mają prawo weryfikować obecność na ćwiczeniach i pracowniach. Konsekwencje nieobecności na danych zajęciach najlepiej jest sprawdzić indywidualnie dla każdego przedmotu w jego regulaminie. Należy mieć na uwadze, że na niektórych przedmiotach aktywność studenta na ćwiczeniach lub pracowniach wpływa na jego ocenę końcową z tych zajęć, mimo że nie istnieją bezpośrednie konsekwencje nieobecności.
+> Prowadzący mają prawo weryfikować obecność na ćwiczeniach i pracowniach. Konsekwencje nieobecności na danych zajęciach najlepiej jest sprawdzić indywidualnie dla każdego przedmotu w jego regulaminie. Należy mieć na uwadze, że na niektórych przedmiotach aktywność studenta na ćwiczeniach lub pracowniach wpływa na jego ocenę końcową z tych zajęć, mimo że nie istnieją bezpośrednie konsekwencje nieobecności.
 >
 > Przykładowymi zajęciami, na których obecność pełni istotną rolę w ich zaliczeniu, są: ćwiczenia z Analizy numerycznej M (3. sem), ćwiczenia z Matematyki dyskretnej M (3. sem), ćwiczenia z Algorytmów i struktur danych (4. sem).
 
@@ -421,11 +420,11 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 >
 > a mianowicie:
 >
-> -   umowa o praktyki (na co najmniej 3-4 tygodnie) wraz z jej programem, podpisana przez zakład pracy, w 2 egzemplarzach,
+> - umowa o praktyki (na co najmniej 3-4 tygodnie) wraz z jej programem, podpisana przez zakład pracy, w 2 egzemplarzach,
 >
-> -   deklaracja podpisana przez studenta,
+> - deklaracja podpisana przez studenta,
 >
-> -   potwierdzenie ubezpieczenia się od nieszczęśliwych wypadków i odpowiedzialności cywilnej na czas trwania praktyki.
+> - potwierdzenie ubezpieczenia się od nieszczęśliwych wypadków i odpowiedzialności cywilnej na czas trwania praktyki.
 >
 > Po podpisaniu umowy przez Dziekana, student otrzymuje skierowanie na praktykę.
 >
@@ -477,8 +476,6 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 </details>
 
-<details>
-
 <summary>Czy pracę dyplomową można pisać zespołowo?</summary>
 
 > Tak, praca dyplomowa może być realizowana zespołowo. Prace licencjackie oraz inżynierskie można realizować w zespołach dwu- i trzyosobowych. Prace magisterskie można realizować w zespołach dwuosobowych.
@@ -488,6 +485,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 > UWAGA: praca licencjacka/inżynierska zrealizowana zespołowo nie zalicza projektu zespołowego.
 
 </details>
+
 
 <details>
 
@@ -531,10 +529,10 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 >
 > ## Zaliczenie jednego z przedmiotów z oferty dydaktycznej Instytutu Informatyki:
 >
-> -   Projekt programistyczny: system typu online judge
-> -   Projekt: Rozwój Schedulera
-> -   Projekt: Rozwój Systemu Zapisów
-> -   Projekt: Programowanie gier programistycznych,
+> - Projekt programistyczny: system typu online judge
+> - Projekt: Rozwój Schedulera
+> - Projekt: Rozwój Systemu Zapisów
+> - Projekt: Programowanie gier programistycznych,
 >
 > ## Poprzez zrealizowanie w trakcie przedmiotu prowadzonego w Instytucie Informatyki np. "Innovative Projects by Nokia" projektu programistycznego w zespole:
 >
@@ -582,7 +580,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>Jak zapisać się na przedmiot z innego kierunku?</summary>
 
-> [Poradnik autorstwa Kuby Nowaka](przemioty_z_innego_kierunku.md)
+> [Poradnik autorstwa Kuby Nowaka](przedmioty_z_innego_kierunku.md)
 
 </details>
 
@@ -651,6 +649,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 > Jeśli będziesz chciał ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), będziesz musiał zapłacić za jego powtarzanie. Opłata za ponowne przystąpienie do ćwiczeń/pracowni w wymiarze 30 godzin wynosi ok. 270 zł; za każde niezaliczone zajęcia pomocnicze jest naliczana osobna opłata. Suma opłat jest podzielona na 4 raty, płatne co miesiąc w ustalonym terminie. Jego przekroczenie generuje niewielkie odsetki.
 
+
 </details>
 
 <details>
@@ -659,9 +658,10 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 > ~~W następnym roku akademickim możesz bez opłat przystąpić do obu terminów egzaminu.~~
 >
-> **Od roku akademickiego 2020/2021:** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu).
+> **Od roku akademickiego 2020/2021:** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu). 
 >
 > **Od roku akademickiego 2021/2022:** Jeśli zaliczyłeś zajęcia pomocnicze (ćwiczenia/pracownie), przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa.
+>
 
 </details>
   
@@ -717,9 +717,9 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 > W nieformalnych rozmowach z innymi studentami (a często też z samymi prowadzącymi) używamy skrótów tworzonych z pierwszych liter imienia i nazwiska. Stąd np.
 >
-> -   dyrektor II, Jerzy Marcinkowski, to JMa,
-> -   wykładowca Logiki dla informatyków, Witold Charatonik, to WCh,
-> -   prowadzący ćwiczenia z Logiki dla informatyków, Tomasz Wierzbicki, to TWi.
+> - dyrektor II, Jerzy Marcinkowski, to JMa,
+> - wykładowca Logiki dla informatyków, Witold Charatonik, to WCh,
+> - prowadzący ćwiczenia z Logiki dla informatyków, Tomasz Wierzbicki, to TWi.
 
 </details>
 
@@ -747,8 +747,8 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 >
 > Aby zmienić hasło należy:
 >
-> -   w systemie Windows nacisnąć klawisze <CTRL\><ALT\><DEL\> i wybrać opcję „Zmień hasło”;
-> -   w systemie Linux wydać polecenie passwd.
+> - w systemie Windows nacisnąć klawisze <CTRL\><ALT\><DEL\> i wybrać opcję „Zmień hasło”;
+> - w systemie Linux wydać polecenie passwd.
 
 </details>
 
