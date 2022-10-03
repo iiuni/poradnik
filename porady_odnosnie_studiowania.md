@@ -358,7 +358,7 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
   <details>
     <summary>Szczegóły</summary>
 
-    Pracę dyplomową najlepiej pisać na temat na którym się znasz, który Cię interesuje i z którym wiążesz swoją przyszłość. Przede pomoże Ci to pracować nad nią systematycznie i przemóc ewentualną prokrastynację. Ponadto najpewniej zamieścisz tytuł i opis pracy (a może nawet repozytorium pod którym można znaleźć jej treść/kod napisany w jej ramach) w swoim CV/portfolio/liście intencyjnym/etc. - dlatego warto, żeby praca była najwyższej możliwej jakości w czym chęci do tworzenia jej zdecydowanie pomagają.
+    Pracę dyplomową najlepiej pisać na temat, na którym się znasz, który Cię interesuje i z którym wiążesz swoją przyszłość. Przede wszystkim pomoże Ci to pracować nad nią systematycznie i przemóc ewentualną prokrastynację. Ponadto najpewniej zamieścisz tytuł i opis pracy (a może nawet repozytorium, pod którym można znaleźć jej treść/kod napisany w jej ramach) w swoim CV/portfolio/liście intencyjnym/etc. - dlatego warto, żeby praca była najwyższej możliwej jakości, w czym chęci do tworzenia jej zdecydowanie pomagają.
   </details>
 
 * **Pracuj systematycznie i zacznij wcześnie**
@@ -366,7 +366,7 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
   <details>
     <summary>Szczegóły</summary>
 
-    Jakkolwiek kuszące może być odłożenie robienia pracy dyplomowej na ostatnią chwilę, jest to bardzo zła praktyka która źle odbije się na jej jakości, Twoim samopoczuciu i finalnej ocenie. Najlepszą strategią jest regularna pisanie pracy i jej komponentów, począwszy od początku semestru w który musisz ją oddać. Temat pracy i jej promotora warto wybrać jeszcze wcześniej.
+    Jakkolwiek kuszące może być odłożenie robienia pracy dyplomowej na ostatnią chwilę, jest to bardzo zła praktyka, która źle odbije się na jej jakości, Twoim samopoczuciu i finalnej ocenie. Najlepszą strategią jest regularna pisanie pracy i jej komponentów, począwszy od początku semestru, w który musisz ją oddać. Temat pracy i jej promotora warto wybrać jeszcze wcześniej.
   </details>
 
 * **Promotor nie napisze za Ciebie pracy**
@@ -374,9 +374,9 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
   <details>
     <summary>Szczegóły</summary>
 
-    Promotor w procesie pisania pracy dyplomowej jest przewodnikiem oraz oceniającym a nie jednym z jej autorów. Możesz zwrócić się do niego z pytaniami dotyczącymi np. technologii które chcesz wykorzystać czy propozycji rozwiązania/obejścia problemu na który się natknąłeś. Nie licz natomiast, że promotor będzie prowadził Cię za rękę lub pilnował czy pracujesz systematycznie.
+    Promotor w procesie pisania pracy dyplomowej jest przewodnikiem oraz oceniającym, a nie jednym z jej autorów. Możesz zwrócić się do niego z pytaniami dotyczącymi np. technologii, które chcesz wykorzystać czy propozycji rozwiązania/obejścia problemu, na który się natknąłeś. Nie licz natomiast, że promotor będzie prowadził Cię za rękę lub pilnował czy pracujesz systematycznie.
 
-    Ponadto powinieneś pamiętać, że Twój promotor najpewniej zajmuje się kilkoma pracami dyplomwymi naraz i każdej musi poświęcić uwagę.
+    Ponadto powinieneś pamiętać, że Twój promotor najpewniej zajmuje się kilkoma pracami dyplomowymi naraz i każdej musi poświęcić uwagę.
   </details>
 
 * **Pamiętaj o terminach**
@@ -384,9 +384,9 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
   <details>
     <summary>Szczegóły</summary>
 
-    Praca dyplomowa musi zostać wprowadzona do systemu APD (Archiwum Prac Dyplomowych) na minimum tydzień przed terminem prezentacji/obrony. Jednakże w systemie musi zostać zatwierdzona przez promotora a potem przepuszczona przez system antyplagiatowy (który potrafi sprawdzać pracę nawet do 2-3 dni), dlatego warto zamieścić ją w APD kilka dni przed obowiązkowym terminem.
+    Praca dyplomowa musi zostać wprowadzona do systemu APD (Archiwum Prac Dyplomowych) na minimum tydzień przed terminem prezentacji/obrony. Jednakże w systemie musi zostać zatwierdzona przez promotora, a potem przepuszczona przez system antyplagiatowy (który potrafi sprawdzać pracę nawet do 2-3 dni), dlatego warto zamieścić ją w APD kilka dni przed obowiązkowym terminem.
 
-    Ponadto pracę przed zamieszczeniem w APD czyta promotor i zwraca do niej zestaw uwag do których musisz się odnieść i poprawić wskazane w nich fragmenty. Warto zarezerwować na ten proces jeden do dwóch tygodni, zwłaszcza że praca może być odesłana do poprawki przez promotora kilkakrotnie.
+    Ponadto pracę przed zamieszczeniem w APD czyta promotor i zwraca do niej zestaw uwag, do których musisz się odnieść i poprawić wskazane w nich fragmenty. Warto zarezerwować na ten proces jeden do dwóch tygodni, zwłaszcza że praca może być odesłana do poprawki przez promotora kilkakrotnie.
   </details>
 
 * **Przygotuj się do obrony/prezentacji**
@@ -396,14 +396,14 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
 
     Ocena pracy dyplomowej składa się z oceny samej pracy oraz oceny jej prezentacji/obrony przed promotorem oraz recenzentem. Dlatego ważne jest, aby dobrze przygotować się do zaprezentowania pracy.
 
-    Koniecznie przyjdź na obronę z własnym sprzętem - laptopem do którego można podłączyć standardowy wydziałowy rzutnik za pomocą kabla HDMI (kabel i rzutnik będą na Ciebie czekały).
+    Koniecznie przyjdź na obronę z własnym sprzętem - laptopem, do którego można podłączyć standardowy wydziałowy rzutnik za pomocą kabla HDMI (kabel i rzutnik będą na Ciebie czekały).
 
     Prezentacja pracy składa się z dwóch części:
 
-    -   właściwej prezentacji podczas której omawiasz pracę (jej problematykę, wykorzystane technologie i rozwiązania etc.) - przygotuj tutaj prezentację multimedialną mającą 10-15 slajdów którą wygłosisz w 10-15 minut. Przećwicz ją przed lustrem/kaczuszką/współlokatorem aby mieć pewność, że potrafisz wygłośić ją płynnie i bez notatek. Prezentacja za krótka bądź za długa negatywnie odbije się na Twojej ocenie
+    -   właściwej prezentacji, podczas której omawiasz pracę (jej problematykę, wykorzystane technologie i rozwiązania etc.) - przygotuj tutaj prezentację multimedialną mającą 10-15 slajdów, którą wygłosisz w 10-15 minut. Przećwicz ją przed lustrem/kaczuszką/współlokatorem, aby mieć pewność, że potrafisz wygłosić ją płynnie i bez notatek. Prezentacja za krótka bądź za długa negatywnie odbije się na Twojej ocenie
     -   pytań od recenzenta i promotora - każdy z nich może zadać Ci do trzech pytań związanych z pracą dyplomową
 
-    Ponadto jeżeli w ramach swojej pracy zaimplementowałeś system/algorytm/coś czego działanie możesz pokazać podczas prezentacji pracy, będziesz miał na to do 10 minut między prezentacją a pytaniami od promotora i recenzenta. Upewnij się, że to co chcesz pokazać działa prawidłowo i dla pewności nagraj film (bez audio, komentuj co dzieje się na ekranie na żywo) na wypadek gdyby Twój laptop odmówił posłuszeństwa.
+    Ponadto, jeżeli w ramach swojej pracy zaimplementowałeś system/algorytm/coś, czego działanie możesz pokazać podczas prezentacji pracy, będziesz miał na to do 10 minut między prezentacją a pytaniami od promotora i recenzenta. Upewnij się, że to, co chcesz pokazać działa prawidłowo i dla pewności nagraj film (bez audio, komentuj co dzieje się na ekranie na żywo) na wypadek gdyby Twój laptop odmówił posłuszeństwa.
 
   </details>
 
@@ -414,7 +414,7 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
 
     Jeżeli nie uda Ci się napisać pracy tak, aby złożyć ją w wymaganym terminie, możesz odłożyć jej złożenie i prezentację na następny semestr. Być może będzie się to wiązało ze skreśleniem z listy studentów (patrz dalej), ale nie jest to koniec świata. O zamiarze odłożenia terminu złożenia pracy poinformuj promotora z wyprzedzeniem.
 
-    Ponadto jeżeli termin obrony Twojej pracy inżynierskiej/licencjackiej przypada na semestr letni, możesz prezentować ją na początku września, przed sesją poprawkową. W takim przypadku stracisz możliwość przystąpienia do egzaminu w lipcu i będziesz miał tylko jeden termin podczas sesji poprawkowej.
+    Ponadto, jeżeli termin obrony Twojej pracy inżynierskiej/licencjackiej przypada na semestr letni, możesz prezentować ją na początku września, przed sesją poprawkową. W takim przypadku stracisz możliwość przystąpienia do egzaminu w lipcu i będziesz miał tylko jeden termin podczas sesji poprawkowej.
   </details>
 
 * **Niezłożenie pracy ma konsekwencje**
@@ -422,7 +422,7 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
   <details>
     <summary>Szczegóły</summary>
 
-    Jeżeli zaliczyłeś wszystkie wymagania jakie należy zrealizować przed złożeniem pracy (obowiązki, efekty, ECTS etc.), zostaniesz skreślony z listy studentów i będziesz mógł złożyć i obronić pracę w terminie do dwóch lat (cztery semestry) od daty skreślenia. Aby móc złożyć pracę, będziesz musiał złożyć wniosek o przywrócenie na listę studentów (ze względu na chęć złożenia i obrony pracy dyplomowej) na miesiąc-dwa przed terminami ich prezentacji. Uwaga: po skreśleniu z listy studentów stracisz dostęp do niektórych zasobów uniwersyteckich (np. uczelniane konto Microsoft, co może utrudnić komunikację z promotorem).
+    Jeżeli zaliczyłeś wszystkie wymagania, jakie należy zrealizować przed złożeniem pracy (obowiązki, efekty, ECTS etc.), zostaniesz skreślony z listy studentów i będziesz mógł złożyć i obronić pracę w terminie do dwóch lat (cztery semestry) od daty skreślenia. Aby móc złożyć pracę, będziesz musiał złożyć wniosek o przywrócenie na listę studentów (ze względu na chęć złożenia i obrony pracy dyplomowej) na miesiąc-dwa przed terminami ich prezentacji. Uwaga: po skreśleniu z listy studentów stracisz dostęp do niektórych zasobów uniwersyteckich (np. uczelniane konto Microsoft, co może utrudnić komunikację z promotorem).
 
     Jeżeli dalej masz do zrealizowania jakieś wymaganie/a (np. brakuje Ci kilku ectsów z jednej z grup), będziesz mógł kontynuować studia bez problemów.
   </details>
@@ -436,5 +436,5 @@ Choć w poprzednim punkcie dość dużo wagi położyliśmy na to, żeby nie ba�
 
     Musisz pamiętać, że oprócz problemów związanych z samym pisaniem pracy, dojdą problemy związane z pisaniem jej w zespole - komunikacja, podział obowiązków etc. Rozwiązanie ich wymaga nieco uwagi i dobrze poświęcić ją na samym początku prac, aby później posuwały się gładko do przodu.
 
-    Każdy z członków zespołu realizującego wspólnie pracę dyplomową powinien włożyć w nią mniej więcej tyle samo wysiłku (doczepienie się do kogoś i napisanie pracy cudzymi rękami jest niedopuszczalne) w czym bardzo pomaga jasny i ustalony wspólnie podział obowiązków/odpowiedzialności. Dobrze jest gdy podczas spotkań z promotorem każdy z członków zespół referuje co udało mu się osiągnąć - z jednej strony pozwola to na kontrolowanie czy każdy realizuje swoją część a z drugiej podkreśla przed promotorem, że podział obowiązków jest sprawiedliwy i realizowany.
+    Każdy z członków zespołu realizującego wspólnie pracę dyplomową powinien włożyć w nią mniej więcej tyle samo wysiłku (doczepienie się do kogoś i napisanie pracy cudzymi rękami jest niedopuszczalne), w czym bardzo pomaga jasny i ustalony wspólnie podział obowiązków/odpowiedzialności. Dobrze jest, gdy podczas spotkań z promotorem każdy z członków zespołu referuje co udało mu się osiągnąć - z jednej strony pozwala to na kontrolowanie czy każdy realizuje swoją część, a z drugiej podkreśla przed promotorem, że podział obowiązków jest sprawiedliwy i realizowany.
   </details>
