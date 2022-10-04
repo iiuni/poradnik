@@ -141,7 +141,7 @@
 <details>
 <summary>Czy mogę siedzieć z laptopem na zajęciach?</summary>
 
-> Zapewne zależy to od prowadzącego oraz od sposobu używania laptopa. Istotną sprawą jest korzystanie z laptopa w taki sposób, by prowadzący nie poczuł się przez to lekceważony. Jeżeli laptop ma służyć pisaniu notatek lub otworzeniu materiałów związanych z zajęciami (obecnie są to częste praktyki), to nie powinien on stanowić problemu, choć pewnie warto upewnić się o tym u prowadzącego. Jeżeli natomiast zamierzasz korzystać z laptopa w sposób niezwiązany z zajęciami, to raczej nie siedź wtedy w pierwszych ławkach (domyślnie zajmowanych przez najbardziej aktywną widownię, z którą prowadzący utrzymuje kontakt wzrokowy lub werbalny).
+> Zapewne zależy to od prowadzącego oraz od sposobu używania laptopa. Istotną sprawą jest korzystanie z laptopa w taki sposób, by prowadzący nie poczuł się przez to lekceważony. Jeżeli laptop ma służyć pisaniu notatek lub otworzeniu materiałów związanych z zajęciami (obecnie są to częste praktyki), to nie powinien on stanowić problemu, choć pewnie warto upewnić się o tym u prowadzącego. Jeżeli natomiast zamierzasz korzystać z laptopa w sposób niezwiązany z zajęciami, to raczej nie siedź wtedy w pierwszych ławkach (domyślnie zajmowanych przez najbardziej aktywną widownię, z którą prowadzący utrzymuje kontakt wzrokowy lub werbalny).
 
 </details>
 
@@ -366,7 +366,7 @@
 
 <summary>Czy obecność na ćwiczeniach/pracowniach jest obowiązkowa?</summary>
 
-> Prowadzący mają prawo weryfikować obecność na ćwiczeniach i pracowniach. Konsekwencje nieobecności na danych zajęciach najlepiej jest sprawdzić indywidualnie dla każdego przedmotu w jego regulaminie. Należy mieć na uwadze, że na niektórych przedmiotach aktywność studenta na ćwiczeniach lub pracowniach wpływa na jego ocenę końcową z tych zajęć, mimo że nie istnieją bezpośrednie konsekwencje nieobecności.
+> Prowadzący mają prawo weryfikować obecność na ćwiczeniach i pracowniach. Konsekwencje nieobecności na danych zajęciach najlepiej jest sprawdzić indywidualnie dla każdego przedmotu w jego regulaminie. Należy mieć na uwadze, że na niektórych przedmiotach aktywność studenta na ćwiczeniach lub pracowniach wpływa na jego ocenę końcową z tych zajęć, mimo że nie istnieją bezpośrednie konsekwencje nieobecności.
 >
 > Przykładowymi zajęciami, na których obecność pełni istotną rolę w ich zaliczeniu, są: ćwiczenia z Analizy numerycznej M (3. sem), ćwiczenia z Matematyki dyskretnej M (3. sem), ćwiczenia z Algorytmów i struktur danych (4. sem).
 
@@ -475,6 +475,17 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 > Jeśli nie masz pomysłu na temat zastanów się, jaki przedmiot w trakcie studiów sprawiał ci najwięcej radości. Rozważ jego prowadzących - wykładowcę, ćwiczeniowców. Gdy zdecydujesz się na jakiegoś pracownika, skontaktuj się z nim. Jeśli kompletnie nie wiesz, co mogłoby być twoim tematem pracy, nie wypada pisać "dzień dobry, poproszę temat" - opisz chociaż, jakie zagadnienia cię interesowały i w czym się dobrze czujesz. Najpewniej promotor pomoże ci wybrać temat.
 
 </details>
+
+<summary>Czy pracę dyplomową można pisać zespołowo?</summary>
+
+> Tak, praca dyplomowa może być realizowana zespołowo. Prace licencjackie oraz inżynierskie można realizować w zespołach dwu- i trzyosobowych. Prace magisterskie można realizować w zespołach dwuosobowych.
+>
+> Jeżeli praca dyplomowa jest realizowana w zespole, powinna być odpowiednio większa od pracy stworzonej przez jedną osobę.
+> 
+> UWAGA: praca licencjacka/inżynierska zrealizowana zespołowo nie zalicza projektu zespołowego.
+
+</details>
+
 
 <details>
 
