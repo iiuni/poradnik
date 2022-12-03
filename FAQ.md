@@ -44,7 +44,7 @@
 <details>
 <summary>Mam X punktów z matury, czy mam szansę się dostać?</summary>
 
-> Możesz obliczyć liczbę punktów rekrutacyjnych przy użyciu [kalkulatora](https://kalkulator-punktow.herokuapp.com) (Autor: [@iCarrot](https://github.com/iCarrrot), [repozytorium z kodem](https://github.com/iCarrrot/kalkulator-punktow)).
+> Możesz obliczyć liczbę punktów rekrutacyjnych przy użyciu [kalkulatora](https://ii.uni.wroc.pl/kalkulator) (Autor: [@iCarrot](https://github.com/iCarrrot), [repozytorium z kodem](https://github.com/iCarrrot/kalkulator-punktow)).
 
 </details>
 
