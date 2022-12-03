@@ -17,6 +17,6 @@ Mail: https://outlook.office.com/
 
 Program studiów (Informatyka): https://ii.uni.wroc.pl/media/uploads/Program_studiow_Inf_LI(2)_WECibSo.pdf
 
-Program studiów (ISIM): http://www.wmi.uni.wroc.pl/sites/default/files/upload_attach/2019ISIMprogram.pdf
+Program studiów (ISIM): https://ii.uni.wroc.pl/media/uploads/2022/11/29/2022_isim_program.pdf
 
-Komentarz do programu studiów (ISIM): http://www.wmi.uni.wroc.pl/sites/default/files/upload_attach/program_ISIM-komentarz.pdf
+Zebrane informacje dla studentów ISIM: https://ii.uni.wroc.pl/dla-studenta/isim
