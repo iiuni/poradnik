@@ -476,6 +476,9 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 </details>
 
+
+<details>
+
 <summary>Czy pracę dyplomową można pisać zespołowo?</summary>
 
 > Tak, praca dyplomowa może być realizowana zespołowo. Prace licencjackie oraz inżynierskie można realizować w zespołach dwu- i trzyosobowych. Prace magisterskie można realizować w zespołach dwuosobowych.
