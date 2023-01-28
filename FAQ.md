@@ -647,8 +647,11 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>Nie zaliczyłem ćwiczeń i/lub pracowni, co dalej?</summary>
 
-> Jeśli będziesz chciał ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), będziesz musiał zapłacić za jego powtarzanie. Opłata za ponowne przystąpienie do ćwiczeń/pracowni w wymiarze 30 godzin wynosi ok. 270 zł; za każde niezaliczone zajęcia pomocnicze jest naliczana osobna opłata. Suma opłat jest podzielona na 4 raty, płatne co miesiąc w ustalonym terminie. Jego przekroczenie generuje niewielkie odsetki.
-
+> Jeśli będziesz chciał ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), będziesz musiał zapłacić za jego powtarzanie. ~~Opłata za ponowne przystąpienie do ćwiczeń/pracowni w wymiarze 30 godzin wynosi ok. 270 zł~~; za każde niezaliczone zajęcia pomocnicze jest naliczana osobna opłata. Suma opłat jest podzielona na 4 raty, płatne co miesiąc w ustalonym terminie. Jego przekroczenie generuje niewielkie odsetki.
+>
+> **Od roku akademickiego 2022/2023**
+Opłata za ponowne przystąpienie do ćwiczeń/pracowni w wymiarze 30 godzin wynosi ok. 600 zł.
+>
 
 </details>
 
@@ -660,7 +663,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 >
 > ~~**Od roku akademickiego 2020/2021:** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu).~~
 >
-> **Od roku akademickiego 2021/2022:** Jeśli zaliczyłeś zajęcia pomocnicze (ćwiczenia/pracownie), przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa. Za powtarzanie wykładu cena wynosi 20 zł za godzinę (jeśli rozpocząłeś studia przed 2022 rokiem, dalej obowiązuje Cię stara stawka 6 zł za godzinę).
+> **Od roku akademickiego 2022/2023:** Jeśli zaliczyłeś zajęcia pomocnicze (ćwiczenia/pracownie), przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa. Za powtarzanie wykładu cena wynosi 20 zł za godzinę (jeśli rozpocząłeś studia przed 2022 rokiem, dalej obowiązuje Cię stara stawka 6 zł za godzinę).
 >
 
 </details>
