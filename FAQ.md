@@ -658,9 +658,9 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 > ~~W następnym roku akademickim możesz bez opłat przystąpić do obu terminów egzaminu.~~
 >
-> **Od roku akademickiego 2020/2021:** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu). 
+> ~~**Od roku akademickiego 2020/2021:** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu).~~
 >
-> **Od roku akademickiego 2021/2022:** Jeśli zaliczyłeś zajęcia pomocnicze (ćwiczenia/pracownie), przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa.
+> **Od roku akademickiego 2021/2022:** Jeśli zaliczyłeś zajęcia pomocnicze (ćwiczenia/pracownie), przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa. Za powtarzanie wykładu cena wynosi 20 zł za godzinę (jeśli rozpocząłeś studia przed 2022 rokiem, dalej obowiązuje Cię stara stawka 6 zł za godzinę).
 >
 
 </details>
