@@ -604,8 +604,26 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>Czym jest ocena zajęć i głosowanie, co one dają?</summary>
 
-> Szczegółowy opis znajdziesz na stronie zapisów w zakładce [Ocena Zajęć](https://zapisy.ii.uni.wroc.pl/grade/).
-> Więcej informacji o głosowaniu można znaleźć też [tutaj](https://forum.iiuwr.me/t/glosowanie-faq/275)
+> Informacje na temat oceny zajęć znajdziesz w sekcji [Ocena zajęć](ocena_zajec.md).
+> Informacje na temat głosowania znajdziesz w sekcji [Głosowanie](glosowanie.md).
+
+</details>
+
+<details>
+
+<summary>Czemu grupa ma limit 0 osób?</summary>
+
+> Czasami może się tak zdarzyć, że jakaś grupa ma limit 0 osób. Zazwyczaj oznacza to, że jeśli będzie dużo osób zainteresowanych danym przedmiotem, to grupa się otworzy (jej limit zostanie zwiększony do niezerowej wartości).
+
+</details>
+
+<details>
+
+<summary>O co chodzi z tymi kolejkami?</summary>
+
+> Zapisując się do jakiejś grupy tak naprawdę zapisujemy się do kolejki do tej grupy. Jeśli w grupie jest miejsce, to zostaniemy do niej zapisani.
+> Jeżeli w grupie nie ma miejsca, to będziemy stać w kolejce, aż nie zwolni się miejsce.
+> Możemy zapisać się do wielu kolejek jednocześnie. Możemy również być zapisani do jednej grupy i stać w kolejkach do innych grup. Kolejkom można ustawić priorytety. Jeśli dostaniemy się do grupy o wyższym priorytecie, to jesteśmy automatycznie usuwani z kolejek o niższym priorytecie, ale dalej stoimy w kolejkach o wyższym priorytecie. Dzięki temu możemy ustawić która grupa nas najbardziej interesuje, a reszą zajmie się system zapisów.
 
 </details>
 
