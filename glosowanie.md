@@ -6,6 +6,6 @@
 
 Na koniec każdego roku akademickiego (czyli pod koniec semestru letniego) odbywa się głosowanie. Studenci dają punkty (od 1 do 3) na przedmioty które ich najbardziej interesują. Każdy punkt to zapisy 24h wcześniej na dany przedmiot.
 
-Głosowanie odbywa się pod koniec roku od razu na cały następny rok (semestr zimowy i letni). Do wydania jest 40 pkt, bez podziału na semestry. Możemy re rozdysponować tak jak chcemy. Niewydane punkty przepadają bezpowrotnie. Oddany głos możemy modyfikować przez cały okres głosowania. Punkty wydane na przedmioty humanistyczne nie liczą się do limitu 40 pkt.
+Głosowanie odbywa się pod koniec roku od razu na cały następny rok (semestr zimowy i letni). Do wydania jest 40 pkt, bez podziału na semestry. Możemy je rozdysponować tak jak chcemy. Niewydane punkty przepadają bezpowrotnie. Oddany głos możemy modyfikować przez cały okres głosowania. Punkty wydane na przedmioty humanistyczne nie liczą się do limitu 40 pkt.
 
 Przed rozpoczęciem semestru (osobno przed zimowym i przed letnim) odbywa się korekta głosowania. Jeżeli przedmiot na który głosowaliśmy nie pojawił się w ofercie na dany semestr, to wydane na niego punkty można rozdysponować na inne przedmioty (niewydane punkty w korekcie przepadają).
