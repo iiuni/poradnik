@@ -621,7 +621,8 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>O co chodzi z tymi kolejkami?</summary>
 
-> Zapisując się do jakiejś grupy tak naprawdę zapisujemy się do kolejki do tej grupy. Jeśli w grupie jest miejsce, to zostaniemy do niej zapisani.
+> Zapisując się do jakiejś grupy tak naprawdę zapisujemy się do kolejki do tej grupy. 
+> Jeśli w grupie jest miejsce, to zostaniemy do niej zapisani.
 > Jeżeli w grupie nie ma miejsca, to będziemy stać w kolejce, aż nie zwolni się miejsce.
 > Możemy zapisać się do wielu kolejek jednocześnie. Możemy również być zapisani do jednej grupy i stać w kolejkach do innych grup. Kolejkom można ustawić priorytety. Jeśli dostaniemy się do grupy o wyższym priorytecie, to jesteśmy automatycznie usuwani z kolejek o niższym priorytecie, ale dalej stoimy w kolejkach o wyższym priorytecie. Dzięki temu możemy ustawić która grupa nas najbardziej interesuje, a reszą zajmie się system zapisów.
 
