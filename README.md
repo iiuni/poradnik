@@ -4,6 +4,8 @@
 
 * [Porady odnośnie studiowania](porady_odnosnie_studiowania.md)
 * [FAQ](FAQ.md)
+* [Głosowanie](glosowanie.md)
+* [Ocena zajęć](ocena_zajec.md)
 * [Przydatne linki](przydatne_linki.md)
 * [Instrukcja obsługi dla studentów autorstwa Tomasza Wierzbickiego](instrukcja_obslugi_dla_studentow.md)
 * [Jak zapisać się na przedmiot z innego kierunku (by Kuba Nowak)](przedmioty_z_innego_kierunku.md)
@@ -13,6 +15,9 @@
 Zbiór różnych informacji i poradników, tworzony przez studentów II UWr dla studentów II UWr.
 
 Polecamy zacząć od sekcji [**Porady odnośnie studiowania**](porady_odnosnie_studiowania.md), a następnie zapoznać się z [**FAQ**](FAQ.md).
+
+Studentom pierwszego roku po 1 semestrze przyda się sekcja [**Ocena zajęć**](ocena_zajec.md).
+Pod koniec 2. semestrzu warto przeczytać [**Głosowanie**](glosowanie.md).
 
 Dokładamy wszelkich starań aby informacje zawarte tutaj były poprawne i aktualne, ale nie możemy tego zagwarantować.
 
