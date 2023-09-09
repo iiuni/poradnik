@@ -679,7 +679,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>Nie zaliczyłem ćwiczeń/pracowni/egzaminu, co dalej?</summary>
 
-> Jeśli będziesz chciał ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), będziesz musiał zapłacić za jego powtarzanie.
+> Jeśli chcesz ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), musisz zapłacić za jego powtarzanie.
 >
 > W przypadku niezaliczenia ćwiczeń/pracowni, musisz zapłacić za powtarzanie ćwiczeń/pracowni oraz wykładu (i ponownie uczęszczać na ćwiczenia/pracownię).
 > W przypadku niezaliczenia egzaminu, musisz zapłacić tylko za powtarzanie wykładu, ćwiczenia/pracownia pozostają zaliczone i nie musisz uczęszczać na nie ponownie.
