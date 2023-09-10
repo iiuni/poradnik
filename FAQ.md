@@ -694,14 +694,21 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <details>
 
-<summary>Jak zapisać się na przedmiot ponownie? Gdzie i do kiedy muszę zapłacić?</summary>
+<summary>Jak zapisać się na przedmiot ponownie?</summary>
 
 > Na przedmiot zapisujesz się tak samo jak zwykle, przez System Zapisów. W przypadku zaliczenia ćwiczeń/pracowni należy się zapisać tylko na wykład.
+
+</details>
+
+
+<details>
+
+<summary>Jak opłacić powtarzanie przedmiotu? Czy muszę załatwić jakieś formalności?</summary>
+
+> Będziesz musiał podpisać umowę w sprawie opłat za powtarzanie zajęć. Otrzymasz stosowny mail z dziekanatu po rozpoczęciu semestru.
 >
 > Po rozpoczęciu semestru w systemie USOS pojawią się nierozliczone należności wraz z terminem do kiedy należy je uregulować (można je zapłacić w 4 ratach lub od razu w całości):
 ![USOSweb - nierozliczone należności](/images/oplaty.png)
->
-> Opócz tego otrzymasz mail z dziekanatu - będziesz musiał pójść podpisać niezbędne dokumenty.
 
 </details>
 
