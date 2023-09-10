@@ -677,29 +677,38 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <details>
 
-<summary>Nie zaliczyłem ćwiczeń i/lub pracowni, co dalej?</summary>
+<summary>Nie zaliczyłem ćwiczeń/pracowni/egzaminu, co dalej?</summary>
 
-> Jeśli będziesz chciał ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), będziesz musiał zapłacić za jego powtarzanie. Opłata za ponowne przystąpienie do ćwiczeń/pracowni w wymiarze 30 godzin wynosi ok. 600 zł; za każde niezaliczone zajęcia pomocnicze jest naliczana osobna opłata. Suma opłat jest podzielona na 4 raty, płatne co miesiąc w ustalonym terminie. Jego przekroczenie generuje niewielkie odsetki.
+> Jeśli chcesz ponownie przystąpić do danego przedmiotu (bo np. jest on obowiązkowy), musisz zapłacić za jego powtarzanie.
 >
+> W przypadku niezaliczenia ćwiczeń/pracowni, musisz zapłacić za powtarzanie ćwiczeń/pracowni oraz wykładu (i ponownie uczęszczać na ćwiczenia/pracownię).
+> W przypadku niezaliczenia egzaminu, musisz zapłacić tylko za powtarzanie wykładu, ćwiczenia/pracownia pozostają zaliczone i nie musisz uczęszczać na nie ponownie.
+> 
+> Opłata za powtarzanie przedmiotu wynosi 20 zł za godzinę zajęć dla osób rozpoczynających studia w roku 2022 lub później. Dla osób które rozpoczęły studia wcześniej - 6 zł za godzinę.
+>
+> Przykład 1: XYZ rozpoczął studia w 2020 roku. Nie zaliczył ćwiczeń z algebry. Musi zapłacić za powtarzanie ćwiczeń oraz wykładu. Ćwiczenia trwają 2h tygodniowo, wykład 3h. XYZ musi zapłacić (2h + 3h) * 15 * 6zł/h = 450zł (15 to liczba tygodni w semestrze).
+>
+> Przykład 2: XYZ rozpoczął studia w 2022 roku. Nie zdał egzaminu z AISDu. Musi zapłacić tylko za powtarzanie wykładu (4h tygodniowo). Musi on zapłacić 4h * 15 * 20zł/h = 1200zł.
 
 </details>
 
 <details>
 
-<summary>Nie zaliczyłem egzaminu, co dalej?</summary>
+<summary>Jak zapisać się na przedmiot ponownie?</summary>
 
-> ~~**Od roku akademickiego 2020/2021:** Niezaliczenie egzaminu = niezaliczenie wykładu. Za powtarzanie wykładu należy zapłacić (około 6 złotych za godzinę wykładu).~~
->
-> **Od roku akademickiego 2022/2023:** Jeśli zaliczyłeś zajęcia pomocnicze (ćwiczenia/pracownie), przy następnym podejściu do tego przedmiotu nie musisz zaliczać ich od nowa. Za powtarzanie wykładu cena wynosi 20 zł za godzinę (jeśli rozpocząłeś studia przed 2022 rokiem, dalej obowiązuje Cię stara stawka 6 zł za godzinę).
->
+> Na przedmiot zapisujesz się tak samo jak zwykle, przez System Zapisów. W przypadku zaliczenia ćwiczeń/pracowni należy się zapisać tylko na wykład.
 
 </details>
-  
+
+
 <details>
 
-<summary>Jak sprawdzić, ile kosztuje mnie powtarzanie przedmiotu?</summary>
+<summary>Jak opłacić powtarzanie przedmiotu? Czy muszę załatwić jakieś formalności?</summary>
 
-![opłaty](/images/oplaty.png)
+> Będziesz musiał podpisać umowę w sprawie opłat za powtarzanie zajęć. Otrzymasz stosowny mail z dziekanatu po rozpoczęciu semestru.
+>
+> Po rozpoczęciu semestru w systemie USOS pojawią się nierozliczone należności wraz z terminem do kiedy należy je uregulować (można je zapłacić w 4 ratach lub od razu w całości):
+![USOSweb - nierozliczone należności](/images/oplaty.png)
 
 </details>
 
