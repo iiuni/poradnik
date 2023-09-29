@@ -19,7 +19,7 @@ Zwolnienie krótsze: dopuszczalne są **maksymalnie 3 nieodrobione nieobecności
 
 ## Nadrabianie
 Chęć nadrobienia zajęć zgłasza się osobiście prowadzącemu grupę, do której jest się zapisanym (na zajęciach).
-Dostaje się wtedy karteczkę, którą należy przedstawić na zajęciach na które pójdziemy w ramach odrabiania, a później oddać prowadzącemu naszą grupę.
+Dostaje się wtedy karteczkę, którą należy przedstawić na zajęciach, na które pójdziemy w ramach odrabiania, a później oddać prowadzącemu naszą grupę.
 Na odrobienie zajęć są 3 tygodnie **od momentu pojawienia się na pierwszych zajęciach po nieobecności**.  
 Odrabiać zajęcia można na dowolnej grupie z tej samej dyscypliny (być może też nawet z innej dyscypliny, ale chyba zależy to od naszego prowadzącego). Nie można uczestniczyć w więcej niż jednych zajęciach jednego dnia.
 
