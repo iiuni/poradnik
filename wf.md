@@ -8,7 +8,7 @@
 * [Zwolnienia](#zwolnienia)
 * [Nadrabianie](#nadrabianie)
 * [Sekcje sportowe](#sekcje-sportowe)
-* [Kategorie zajęć](#kategorie-zajec)
+* [Kategorie zajęć](#kategorie-zajęć)
 * [Q&A](#qa)
 * [Przydatne linki](#przydatne-linki)
 
