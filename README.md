@@ -6,6 +6,7 @@
 * [FAQ](FAQ.md)
 * [Głosowanie](glosowanie.md)
 * [Ocena zajęć](ocena_zajec.md)
+* [WF](wf.md)
 * [Przydatne linki](przydatne_linki.md)
 * [Instrukcja obsługi dla studentów autorstwa Tomasza Wierzbickiego](instrukcja_obslugi_dla_studentow.md)
 * [Jak zapisać się na przedmiot z innego kierunku (by Kuba Nowak)](przedmioty_z_innego_kierunku.md)
