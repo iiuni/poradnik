@@ -1,6 +1,17 @@
 [Powrót](README.md)
 
 # WF
+
+## Spis treści
+* [Wymagania](#wymagania)
+* [Zapisy](#zapisy)
+* [Zwolnienia](#zwolnienia)
+* [Nadrabianie](#nadrabianie)
+* [Sekcje sportowe](#sekcje-sportowe)
+* [Kategorie zajęć](#kategorie-zajec)
+* [Q&A](#qa)
+* [Przydatne linki](#przydatne-linki)
+
 **Dla studentów 1. roku:** na WF możecie zapisywać się dopiero od drugiego semestru, ale już na pierwszym możecie zapisać się do [sekcji sportowej](#sekcje-sportowe).
 
 ## Wymagania
