@@ -15,7 +15,7 @@
 **Dla studentów 1. roku:** na WF możecie zapisywać się dopiero od drugiego semestru, ale już na pierwszym możecie zapisać się do [sekcji sportowej](#sekcje-sportowe).
 
 ## Wymagania
-Każdy musi zrealizować 60 godzin WF-u, co przekłada się na **2 semestry** zajęć (dowolne dwa w trakcie studiów).
+Każdy musi zrealizować 60 godzin WF-u, co przekłada się na **2 semestry** zajęć (dowolne dwa w trakcie studiów). Za WF **nie są przyznawane punkty ECTS**.
 
 ## Zapisy
 Na WF można zapisywać się na **uniwersyteckiej** [stronie zapisów](https://zapisy.uni.wroc.pl) (jest to część USOS-a, czyli logowanie to samo).  
