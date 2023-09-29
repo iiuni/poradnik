@@ -7,7 +7,7 @@
 Każdy musi zrealizować 60 godzin WF-u, co przekłada się na **2 semestry** zajęć (dowolne dwa w trakcie studiów).
 
 ## Zapisy
-Na WF można zapisywać się na **uniwersyteckiej** [stronie zapisów](https://zapisy.uni.wroc.pl).  
+Na WF można zapisywać się na **uniwersyteckiej** [stronie zapisów](https://zapisy.uni.wroc.pl) (jest to część USOS-a, czyli logowanie to samo).  
 Termin zapisów jest ogłaszany na [wspomnianej stronie](https://zapisy.uni.wroc.pl), jak i w USOS-ie (i pewnie jeszcze w innych miejscach).  
 Należy zwracać uwagę na płeć, dla której przeznaczona jest dana grupa (zazwyczaj jest dla obu, ale nie zawsze).  
 Aby zapisać się na preferowaną dyscyplinę warto zrobić to dokładnie o godzinie rozpoczęcia zapisów, **miejsca kończą się bardzo szybko** (może to być np. kwestia 1 minuty w konkretnej grupie czy dyscyplinie).
@@ -74,3 +74,9 @@ Jest tam np. turystyka piesza. Wymaga poświęcenia kilku weekendów i normalnie
 
 > Zdarza się, że udział w turnieju odrabia zajęcia, ale zależy to od prowadzącego.
 </details>
+
+## Przydatne linki
+
+- [strona zapisów](https://zapisy.uni.wroc.pl)
+- [strona AZS-u](http://sport.uni.wroc.pl)
+- [facebook AZS-u](https://www.facebook.com/KUAZSUWr)
