@@ -1,7 +1,7 @@
 [Powrót](README.md)
 
 # WF
-**Dla studentów 1. roku:** na WF możecie zapisywać się dopiero od drugiego semestru, ale już na pierwszym możecie zapisać się do sekcji sportowej.
+**Dla studentów 1. roku:** na WF możecie zapisywać się dopiero od drugiego semestru, ale już na pierwszym możecie zapisać się do [sekcji sportowej](#sekcje-sportowe).
 
 ## Wymagania
 Każdy musi zrealizować 60 godzin WF-u, co przekłada się na **2 semestry** zajęć (dowolne dwa w trakcie studiów).
