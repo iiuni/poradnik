@@ -25,11 +25,12 @@ Aby zapisać się na preferowaną dyscyplinę, warto zrobić to dokładnie o god
 Najlepiej wejść już wcześniej na stronę konkretnej grupy (nie dyscypliny) i czekać tam na rozpoczęcie zapisów (strona odświeża się automatycznie, jest sekundowe odliczanie).
 
 ## Kategorie zajęć
-Dostępne są 3 (4) kategorie:
+Dostępne jest 5 kategorii:
 - podstawowe, bezpłatne
 - podstawowe, płatne
 - weekendowe, bezpłatne
-- (przedmioty teoretyczne)
+- przedmioty teoretyczne
+- obozy sportowe
 
 ### Podstawowe, bezpłatne
 Standardowy wf odbywający się co tydzień w dany roboczy dzień tygodnia.
@@ -40,8 +41,14 @@ Są tam dostępne inne dyscypliny, których nie ma w poprzedniej kategorii, np. 
 ### Weekendowe, bezpłatne
 Jest tam np. turystyka piesza. Wymaga poświęcenia kilku weekendów i normalnie zalicza semestr WF-u.
 
+### Przedmioty teoretyczne
+Nowa kategoria od roku 2023/2024, jest tam wykład, który jest jedną z opcji zaliczenia WF-u **dla posiadających długotrwałe zwolnienie lekarskie**.
+
+### Obozy sportowe
+Są odrębne od reszty w systemie zapisów. Udział w takim obozie zalicza semestr WF-u (30 godzin). **Dostępne są tylko w semestrze letnim.**
+
 ## Zwolnienia
-Zwolnienie na semestr, rok, lub całe studia: obowiązek zaliczania zajęć teoretycznych lub wykładu (konkrety są na stronie zapisów).  
+Zwolnienie na semestr, rok, lub całe studia: obowiązek zaliczania zajęć teoretycznych (np. szachy) lub wykładu (konkrety, wraz z sposobem zapisu są na stronie zapisów).  
 Zwolnienie krótsze: dopuszczalne są **maksymalnie 3 nieodrobione nieobecności** (zwolnienie lekarskie chyba nie ma tu więc znaczenia), więcej o nadrabianiu poniżej.
 
 ## Nadrabianie
@@ -65,13 +72,14 @@ Sekcja sportowa umożliwia uczestniczenie w różnych turniejach międzyuczelnia
 <details>
 <summary>Na czym polega "giełda"?</summary>
 
-> Jest to mechanizm pozwalający na *bezpieczną* zamianę z kimś zajęciami. [Instrukcja *giełdy*](https://zapisy.uni.wroc.pl/dokumenty/files/instrukcja_gielda.pdf).
+> Jest to mechanizm pozwalający na *bezpieczną* zamianę z kimś na grupy zajęciowe. [Instrukcja *giełdy*](https://zapisy.uni.wroc.pl/dokumenty/files/instrukcja_gielda.pdf).
 
 </details>
 <details>
 <summary>Co jeśli nie zdam?</summary>
 
 > Wtedy aby zaliczyć WF należy zapłacić za dodatkowe żetony (czyli możliwość zapisania się na dodatkowy semestr WF-u), szczegóły (i cena) powinny być podane na [stronie zapisów](https://zapisy.uni.wroc.pl).
+> Przykładowo na rok 2023/2024 jest to 10 zł/h, czyli 300 zł za semestr.
 
 </details>
 <details>
@@ -89,5 +97,8 @@ Sekcja sportowa umożliwia uczestniczenie w różnych turniejach międzyuczelnia
 ## Przydatne linki
 
 - [strona zapisów](https://zapisy.uni.wroc.pl)
+- [zasady zapisów](https://zapisy.uni.wroc.pl/index.php?item=2)
+- [wskazówki odnośnie zapisów](https://zapisy.uni.wroc.pl/index.php?item=1)
+- [instrukcja "giełdy"](https://zapisy.uni.wroc.pl/dokumenty/files/instrukcja_gielda.pdf)
 - [strona AZS-u](http://sport.uni.wroc.pl)
 - [facebook AZS-u](https://www.facebook.com/KUAZSUWr)
