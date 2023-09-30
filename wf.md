@@ -100,6 +100,15 @@ Sekcja sportowa umożliwia uczestniczenie w różnych turniejach międzyuczelnia
 > Nie, z wyjątkiem obozu sportowego. Tzn. można być zapisanym na tylko jeden "zwykły" WF i dodatkowo na tylko jeden obóz sportowy w jednym semestrze (a w semestrze zimowym tylko na "zwykły" WF - nie ma wtedy obozów sportowych).
 
 </details>
+<details>
+<summary>Jak wystawiana jest ocena?</summary>
+
+> Na podstawie obecności. Z regulaminu: *Student może otrzymać ocenę bardzo dobrą, gdy miał jedną nieobecność na zajęciach
+podstawowych, ocenę dobrą, gdy miał dwie nieobecności na zajęciach podstawowych w
+semestrze i ocenę dostateczną, gdy miał trzy nieobecności na zajęciach podstawowych w
+semestrze.*
+
+</details>
 
 ## Przydatne linki
 
