@@ -79,7 +79,7 @@ Sekcja sportowa umożliwia uczestniczenie w różnych turniejach międzyuczelnia
 <summary>Co jeśli nie zdam?</summary>
 
 > Wtedy aby zaliczyć WF należy zapłacić za dodatkowe żetony (czyli możliwość zapisania się na dodatkowy semestr WF-u), szczegóły (i cena) powinny być podane na [stronie zapisów](https://zapisy.uni.wroc.pl).
-> Przykładowo na rok 2023/2024 jest to 10 zł/h, czyli 300 zł za semestr.
+> Przykładowo na rok 2023/2024 to 10 zł/h, czyli 300 zł za semestr.
 
 </details>
 <details>
@@ -92,6 +92,13 @@ Sekcja sportowa umożliwia uczestniczenie w różnych turniejach międzyuczelnia
 <summary>Czy jest jakiś inny sposób na odrobienie zajęć?</summary>
 
 > Zdarza się, że udział w turnieju odrabia zajęcia, ale zależy to od prowadzącego.
+
+</details>
+<details>
+<summary>Czy mogę zapisać się na dwa WF-y w jednym semestrze?</summary>
+
+> Nie, z wyjątkiem obozu sportowego. Tzn. można być zapisanym na tylko jeden "zwykły" WF i dodatkowo na tylko jeden obóz sportowy w jednym semestrze (a w semestrze zimowym tylko na "zwykły" WF - nie ma wtedy obozów sportowych).
+
 </details>
 
 ## Przydatne linki
@@ -100,5 +107,6 @@ Sekcja sportowa umożliwia uczestniczenie w różnych turniejach międzyuczelnia
 - [zasady zapisów](https://zapisy.uni.wroc.pl/index.php?item=2)
 - [wskazówki odnośnie zapisów](https://zapisy.uni.wroc.pl/index.php?item=1)
 - [instrukcja "giełdy"](https://zapisy.uni.wroc.pl/dokumenty/files/instrukcja_gielda.pdf)
+- [regulamin WF-u](https://bip.uni.wroc.pl/download/attachment/31373/nr-147-2021-z-dnia-29092021-regulamin-organizacji-zajec-i-zaliczen-wf.pdf)
 - [strona AZS-u](http://sport.uni.wroc.pl)
 - [facebook AZS-u](https://www.facebook.com/KUAZSUWr)
