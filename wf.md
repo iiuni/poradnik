@@ -56,6 +56,7 @@ Chęć nadrobienia zajęć zgłasza się osobiście prowadzącemu grupę, do kt�
 Dostaje się wtedy karteczkę, którą należy przedstawić na zajęciach, na które pójdziemy w ramach odrabiania, a później oddać prowadzącemu naszą grupę.
 Na odrobienie zajęć są 3 tygodnie **od momentu pojawienia się na pierwszych zajęciach po nieobecności**.  
 Odrabiać zajęcia można na dowolnej grupie z tej samej dyscypliny (być może też nawet z innej dyscypliny, ale chyba zależy to od naszego prowadzącego). Nie można uczestniczyć w więcej niż jednych zajęciach jednego dnia.
+**Można odrobić maksymalnie 4 zajęcia.**
 
 ## Sekcje sportowe
 Sekcje sportowe to część AZS-u. [Strona AZS-u](http://sport.uni.wroc.pl/) wydaje się być martwa, z AZS-em ponoć można skontaktować się przez [ich facebooka](https://www.facebook.com/KUAZSUWr/).  
