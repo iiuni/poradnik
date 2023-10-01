@@ -599,7 +599,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 <summary>Co z zajęciami WF?</summary>
 
-> WF jest obowiązkowy. Na WF można zapisywać się co semestr na uniwersyteckiej stronie [zapisów](https://zapisy.uni.wroc.pl). Studentów obowiązuje 60 godzin WFu, co odpowiada dwóm semestrom. WF można zaliczyć także poprzez uczestnictwo w obozie sportowo-rekreacyjnym, na jego podstawie można zaliczyć 30 godzin.
+> Informacje na temat WF-u znajdziesz w sekcji [WF](wf.md).
 
 </details>
 
