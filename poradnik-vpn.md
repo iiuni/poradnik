@@ -4,11 +4,11 @@
 
 # Konfiguracja VPN (Instytut Informatyki)
 
-Szybka instrukcja konfiguracji połączenia VPN do sieci wydziałowej.
+Szybka instrukcja konfiguracji połączenia VPN do sieci studenckiej II.
 
 ### 1\. Zgłoszenie dostępu
 
-Wyślij wiadomość z prośbą o aktywację usługi VPN.
+Wyślij e-mail z prośbą o aktywację usługi VPN **(koniecznie z adresu `@uni.wroc.pl`)**
 
   * **Do:** `admin@ii.uni.wroc.pl`
   * **Temat:** `VPN`
@@ -17,8 +17,9 @@ Wyślij wiadomość z prośbą o aktywację usługi VPN.
 
 ```text
 Dzień dobry,
-Chciałbym prosić o umożliwienie mi połączenia do VPN.
-Pozdrawiam,😊
+proszę o aktywowanie dostępu do VPN sieci studenckiej.
+
+Pozdrawiam, 😊
 ```
 
 ### 2\. Konfiguracja Firewalla
@@ -39,8 +40,8 @@ Skonfiguruj nowe połączenie VPN w systemie, używając poniższych parametrów
 | Ustawienie | Wartość |
 | :--- | :--- |
 | **Typ/Protokół** | PPTP (Point-to-Point Tunneling Protocol) |
-| **Serwer / Brama** | `156.17.4.252` |
-| **Login** | Twój login wydziałowy |
-| **Hasło** | Twoje hasło wydziałowe |
+| **Serwer / Brama** | `156.17.4.253` |
+| **Login** | Ten sam co w pracowniach (np. `i123456`) |
+| **Hasło** | To samo co w pracowniach |
 
 -----
