@@ -6,36 +6,38 @@
 <summary><b>Oryginalni twórcy</b></summary>
 
 > FAQ bazujące na wersji ze starego forum, bazującej na wersji z jeszcze starszego forum
-> 
+>
 > Oryginalni autorzy FAQ:
-> * [@Anna Karaś](https://github.com/annakaras)
-> * [@Kamil Matuszewski](https://github.com/Arsenicro/)
-> 
+>
+> - [@Anna Karaś](https://github.com/annakaras)
+> - [@Kamil Matuszewski](https://github.com/Arsenicro/)
+>
 > Później rozwijane i utrzymywane przez:
-> * [@Bartosz Bednarczyk](https://github.com/bartoszjanbednarczyk)
-> * [@Dawid Dudek](https://github.com/DaDudek)
+>
+> - [@Bartosz Bednarczyk](https://github.com/bartoszjanbednarczyk)
+> - [@Dawid Dudek](https://github.com/DaDudek)
 
 </details>
 
 ## Spis treści
 
-* [Rekrutacja](#rekrutacja)
-* [Dni adaptacyjne](#dni-adaptacyjne)
-* [Budynek instytutu](#budynek-instytutu)
-* [Studia vs szkoła](#studia-vs-szkoła)
-* [Stypendium](#stypendium)
-* [Kontakt z prowadzącymi](#kontakt-z-prowadzącymi)
-* [Plan zajęć](#plan-zajęć)
-* [Przedmioty](#przedmioty)
-* [Praktyki zawodowe](#praktyki-zawodowe)
-* [Praca dyplomowa](#praca-dyplomowa)
-* [Projekt zespołowy](#projekt-zespołowy)
-* [Praca zespołowa](#praca-zespołowa)
-* [Zapisy](#zapisy)
-* [Zajęcia](#zajęcia)
-* [Sesja](#sesja)
-* [Niepisane zasady panujące w II](#niepisane-zasady-panujące-w-ii)
-* [Oprogramowanie i pracownie](#oprogramowanie-i-pracownie)
+- [Rekrutacja](#rekrutacja)
+- [Dni adaptacyjne](#dni-adaptacyjne)
+- [Budynek instytutu](#budynek-instytutu)
+- [Studia vs szkoła](#studia-vs-szkoła)
+- [Stypendium](#stypendium)
+- [Kontakt z prowadzącymi](#kontakt-z-prowadzącymi)
+- [Plan zajęć](#plan-zajęć)
+- [Przedmioty](#przedmioty)
+- [Praktyki zawodowe](#praktyki-zawodowe)
+- [Praca dyplomowa](#praca-dyplomowa)
+- [Projekt zespołowy](#projekt-zespołowy)
+- [Praca zespołowa](#praca-zespołowa)
+- [Zapisy](#zapisy)
+- [Zajęcia](#zajęcia)
+- [Sesja](#sesja)
+- [Niepisane zasady panujące w II](#niepisane-zasady-panujące-w-ii)
+- [Oprogramowanie i pracownie](#oprogramowanie-i-pracownie)
 
 ---
 
@@ -219,7 +221,6 @@
 > W roku 2021 próg wyniósł 4.79
 
 </details>
-
 
 <details>
 
@@ -476,7 +477,6 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 </details>
 
-
 <details>
 
 <summary>Czy pracę dyplomową można pisać zespołowo?</summary>
@@ -484,11 +484,10 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 > Tak, praca dyplomowa może być realizowana zespołowo. Prace licencjackie oraz inżynierskie można realizować w zespołach dwu- i trzyosobowych. Prace magisterskie można realizować w zespołach dwuosobowych.
 >
 > Jeżeli praca dyplomowa jest realizowana w zespole, powinna być odpowiednio większa od pracy stworzonej przez jedną osobę.
-> 
+>
 > UWAGA: praca licencjacka/inżynierska zrealizowana zespołowo nie zalicza projektu zespołowego.
 
 </details>
-
 
 <details>
 
@@ -552,6 +551,8 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 </details>
 
 # Praca zespołowa
+
+> **Uwaga.** Nie dotyczy studentów rozpoczynających studia od semestrów 2022/2023 wzwyż. Praca zespołowa została usunięta z planu studiów.
 
 <details>
 
@@ -683,7 +684,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 >
 > W przypadku niezaliczenia ćwiczeń/pracowni, musisz zapłacić za powtarzanie ćwiczeń/pracowni oraz wykładu (i ponownie uczęszczać na ćwiczenia/pracownię).
 > W przypadku niezaliczenia egzaminu, musisz zapłacić tylko za powtarzanie wykładu, ćwiczenia/pracownia pozostają zaliczone i nie musisz uczęszczać na nie ponownie.
-> 
+>
 > Opłata za powtarzanie przedmiotu wynosi 20 zł za godzinę zajęć dla osób rozpoczynających studia w roku 2022 lub później. Dla osób które rozpoczęły studia wcześniej - 6 zł za godzinę.
 >
 > Przykład 1: XYZ rozpoczął studia w 2020 roku. Nie zaliczył ćwiczeń z algebry. Musi zapłacić za powtarzanie ćwiczeń oraz wykładu. Ćwiczenia trwają 2h tygodniowo, wykład 3h. XYZ musi zapłacić (2h + 3h) * 15 * 6zł/h = 450zł (15 to liczba tygodni w semestrze).
@@ -700,7 +701,6 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 
 </details>
 
-
 <details>
 
 <summary>Jak opłacić powtarzanie przedmiotu? Czy muszę załatwić jakieś formalności?</summary>
@@ -708,7 +708,7 @@ O formalnościach związanych z zaliczaniem praktyk więcej [tutaj](https://foru
 > Będziesz musiał podpisać umowę w sprawie opłat za powtarzanie zajęć. Otrzymasz stosowny mail z dziekanatu po rozpoczęciu semestru.
 >
 > Po rozpoczęciu semestru w systemie USOS pojawią się nierozliczone należności wraz z terminem do kiedy należy je uregulować (można je zapłacić w 4 ratach lub od razu w całości):
-![USOSweb - nierozliczone należności](/images/oplaty.png)
+> ![USOSweb - nierozliczone należności](/images/oplaty.png)
 
 </details>
 
