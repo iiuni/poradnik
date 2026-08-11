@@ -36,4 +36,3 @@ Przy dodawaniu issue/pull requesta pamiętaj o dodaniu odpowiedniej labelki: uł
 - [Arsenicro](https://github.com/Arsenicro)
 - [Florian3k](https://github.com/Florian3k)
 - [marcee927](https://github.com/marcee927)
-- [MMierzej](https://github.com/MMierzej)
